@@ -12,5 +12,17 @@
 #   remove 3 random characters from start and end. Now remove the last letter and append it to the beginning
 
 # Your program should ask whether you want to code or decode
-
-msg=input("Enter Message: ")
+ed=int(input("Press 1 if You want to Encrypt or 2 for Decrypt: "))
+if (ed==1):
+    msg=input("Enter Message: ")
+    lst=msg.split()
+    
+    for i in lst:
+        if (len(i)<3):
+            # print(i, end=' ')
+            reversed_string = "".join(reversed(i))
+            print(reversed_string)
+        # else:
+        #     print(i)
+            # if (len(msg)<3):    
+        
