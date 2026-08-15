@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Gender,Age,City,Category,Product,Quantity,Unit_Price,Discount_Percent,Sales,Cost,Profit,Rating,Payment_Method,Order_Status,Month,Month_Number,Age_Group
+10001,2025-01-01,Female,41,Lahore,Sports,Gym Bag,4,38814,10,139730.4,110922.92,28807.48,4.1,Cash,Completed,January,1,36-45
+10002,2025-01-02,Male,26,Peshawar,Home,Bedsheet,1,33158,20,26526.4,21275.88,5250.52,4.1,JazzCash,Completed,January,1,26-35
+10003,2025-01-03,Male,21,Multan,Beauty,Haircare,3,7352,10,19850.4,15212.63,4637.77,4.2,Card,Completed,January,1,18-25
+10004,2025-01-04,Male,34,Multan,Home,Bedsheet,5,29950,10,134775.0,98662.02,36112.98,2.8,Bank Transfer,Completed,January,1,26-35
+10005,2025-01-05,Female,34,Faisalabad,Home,Bedsheet,3,3051,20,7322.4,4038.63,3283.77,4.6,Card,Completed,January,1,26-35
+10006,2025-01-06,Male,65,Faisalabad,Clothing,Shirt,3,6911,20,16586.4,11208.64,5377.76,3.8,Card,Completed,January,1,56-65
+10007,2025-01-07,Male,47,Karachi,Beauty,Haircare,1,49659,15,42210.15,29724.97,12485.18,3.7,Bank Transfer,Completed,January,1,46-55
+10008,2025-01-08,Male,57,Islamabad,Beauty,Perfume,1,33743,15,28681.55,18129.27,10552.28,5.0,Cash,Cancelled,January,1,56-65
+10009,2025-01-09,Male,28,Rawalpindi,Beauty,Haircare,1,22300,10,20070.0,12762.28,7307.72,4.4,JazzCash,Completed,January,1,26-35
+10010,2025-01-10,Female,38,Islamabad,Home,Cookware,2,10903,10,19625.4,15887.02,3738.38,2.8,JazzCash,Completed,January,1,36-45
+10011,2025-01-11,Female,38,Multan,Sports,Cricket Bat,4,7739,0,30956.0,24478.83,6477.17,4.4,Card,Completed,January,1,36-45
+10012,2025-01-12,Male,35,Karachi,Beauty,Perfume,2,7210,0,14420.0,11237.19,3182.81,2.7,Bank Transfer,Completed,January,1,26-35
+10013,2025-01-13,Male,46,Islamabad,Home,Bedsheet,4,21884,15,74405.6,49079.66,25325.94,2.6,EasyPaisa,Completed,January,1,46-55
+10014,2025-01-14,Female,41,Lahore,Clothing,Jacket,4,21538,25,64614.0,35776.68,28837.32,3.5,Cash,Completed,January,1,36-45
+10015,2025-01-15,Female,27,Multan,Sports,Cricket Bat,3,41346,25,93028.5,53180.67,39847.83,5.0,Card,Completed,January,1,26-35
+10016,2025-01-16,Female,62,Islamabad,Clothing,Shirt,3,22947,15,58514.85,37115.56,21399.29,2.9,JazzCash,Completed,January,1,56-65
+10017,2025-01-17,Male,34,Islamabad,Sports,Cricket Bat,4,2785,0,11140.0,6174.35,4965.65,4.2,Bank Transfer,Completed,January,1,26-35
+10018,2025-01-18,Female,35,Multan,Home,Cookware,4,38491,0,153964.0,85393.12,68570.88,2.9,Bank Transfer,Completed,January,1,26-35
+10019,2025-01-19,Male,59,Rawalpindi,Electronics,Laptop,2,14021,25,21031.5,16772.26,4259.24,4.3,Card,Cancelled,January,1,56-65
+10020,2025-01-20,Male,65,Multan,Sports,Cricket Bat,2,48157,5,91498.3,67769.39,23728.91,3.8,EasyPaisa,Completed,January,1,56-65
+10021,2025-01-21,Female,37,Lahore,Clothing,Shoes,3,7471,5,21292.35,13486.96,7805.39,4.2,JazzCash,Completed,January,1,36-45
+10022,2025-01-22,Male,54,Lahore,Home,Lamp,1,29639,0,29639.0,17362.94,12276.06,3.0,Card,Completed,January,1,46-55
+10023,2025-01-23,Female,62,Islamabad,Sports,Cricket Bat,4,20409,5,77554.2,53368.27,24185.93,4.4,EasyPaisa,Completed,January,1,56-65
+10024,2025-01-24,Male,35,Faisalabad,Electronics,Headphones,2,12031,20,19249.6,10615.07,8634.53,5.0,Bank Transfer,Cancelled,January,1,26-35
+10025,2025-01-25,Female,34,Rawalpindi,Electronics,Headphones,3,15221,15,38813.55,31181.71,7631.84,4.2,Cash,Returned,January,1,26-35
+10026,2025-01-26,Male,26,Islamabad,Beauty,Perfume,2,19706,15,33500.2,22177.14,11323.06,3.7,JazzCash,Completed,January,1,26-35
+10027,2025-01-27,Male,31,Multan,Beauty,Skincare,4,38211,0,152844.0,100667.71,52176.29,4.8,JazzCash,Completed,January,1,26-35
+10028,2025-01-28,Female,46,Islamabad,Clothing,Shirt,4,7030,10,25308.0,16588.39,8719.61,2.5,EasyPaisa,Completed,January,1,46-55
+10029,2025-01-29,Female,48,Karachi,Sports,Football,5,11616,25,43560.0,24773.38,18786.62,4.3,Card,Completed,January,1,46-55
+10030,2025-01-30,Female,21,Karachi,Sports,Cricket Bat,1,758,0,758.0,547.54,210.46,4.7,Bank Transfer,Completed,January,1,18-25
+10031,2025-01-31,Female,35,Faisalabad,Beauty,Skincare,5,782,5,3714.5,2778.12,936.38,2.7,EasyPaisa,Returned,January,1,26-35
+10032,2025-02-01,Male,37,Rawalpindi,Sports,Gym Bag,3,14437,25,32483.25,23795.73,8687.52,3.6,Cash,Cancelled,February,2,36-45
+10033,2025-02-02,Female,64,Peshawar,Sports,Cricket Bat,2,2398,10,4316.4,2535.36,1781.04,3.0,Cash,Cancelled,February,2,56-65
+10034,2025-02-03,Female,60,Karachi,Electronics,Headphones,3,4635,5,13209.75,9329.87,3879.88,3.9,Cash,Completed,February,2,56-65
+10035,2025-02-04,Male,61,Peshawar,Beauty,Perfume,4,7129,20,22812.8,16054.75,6758.05,4.1,EasyPaisa,Completed,February,2,56-65
+10036,2025-02-05,Female,26,Lahore,Home,Lamp,5,44436,5,211071.0,165579.06,45491.94,3.3,Bank Transfer,Completed,February,2,26-35
+10037,2025-02-06,Female,30,Karachi,Beauty,Makeup,5,20084,20,80336.0,52408.35,27927.65,3.6,JazzCash,Completed,February,2,26-35
+10038,2025-02-07,Male,32,Karachi,Home,Chair,5,24051,25,90191.25,58651.48,31539.77,3.2,Card,Completed,February,2,26-35
+10039,2025-02-08,Female,44,Rawalpindi,Electronics,Headphones,3,33880,20,81312.0,58300.89,23011.11,3.4,JazzCash,Completed,February,2,36-45
+10040,2025-02-09,Female,32,Faisalabad,Clothing,Jacket,4,47471,25,142413.0,102669.75,39743.25,2.9,Bank Transfer,Completed,February,2,26-35
+10041,2025-02-10,Female,45,Peshawar,Sports,Gym Bag,2,17571,25,26356.5,17835.63,8520.87,4.7,JazzCash,Returned,February,2,36-45
+10042,2025-02-11,Female,54,Multan,Electronics,Headphones,2,20574,25,30861.0,20665.33,10195.67,2.5,EasyPaisa,Returned,February,2,46-55
+10043,2025-02-12,Female,36,Karachi,Sports,Football,3,25688,25,57798.0,39500.3,18297.7,4.7,Cash,Returned,February,2,36-45
+10044,2025-02-13,Female,43,Karachi,Clothing,Jacket,5,2807,25,10526.25,8236.6,2289.65,3.9,Bank Transfer,Cancelled,February,2,36-45
+10045,2025-02-14,Male,43,Rawalpindi,Clothing,Shirt,1,40401,5,38380.95,25888.53,12492.42,3.3,Bank Transfer,Completed,February,2,36-45
+10046,2025-02-15,Female,42,Rawalpindi,Electronics,Laptop,3,11705,25,26336.25,21168.59,5167.66,4.3,JazzCash,Completed,February,2,36-45
+10047,2025-02-16,Male,43,Faisalabad,Clothing,Shirt,3,6406,5,18257.1,12525.85,5731.25,3.8,EasyPaisa,Completed,February,2,36-45
+10048,2025-02-17,Male,43,Peshawar,Home,Chair,4,3091,25,9273.0,7476.67,1796.33,3.7,JazzCash,Completed,February,2,36-45
+10049,2025-02-18,Male,63,Lahore,Clothing,Shoes,2,15649,20,25038.4,19401.37,5637.03,2.8,JazzCash,Cancelled,February,2,56-65
+10050,2025-02-19,Male,45,Multan,Sports,Football,3,45418,25,102190.5,66204.78,35985.72,3.5,Bank Transfer,Returned,February,2,36-45
+10051,2025-02-20,Female,35,Faisalabad,Sports,Football,3,40451,10,109217.7,85537.47,23680.23,3.1,JazzCash,Completed,February,2,26-35
+10052,2025-02-21,Female,49,Lahore,Sports,Cricket Bat,5,25650,25,96187.5,55761.54,40425.96,2.5,Cash,Completed,February,2,46-55
+10053,2025-02-22,Female,20,Islamabad,Sports,Football,5,32352,25,121320.0,97027.22,24292.78,3.4,JazzCash,Completed,February,2,18-25
+10054,2025-02-23,Male,19,Karachi,Home,Cookware,1,43370,20,34696.0,24999.99,9696.01,2.7,Cash,Completed,February,2,18-25
+10055,2025-02-24,Female,50,Peshawar,Beauty,Makeup,4,1783,15,6062.2,3423.24,2638.96,3.1,Bank Transfer,Cancelled,February,2,46-55
+10056,2025-02-25,Female,59,Faisalabad,Electronics,Tablet,1,34191,20,27352.8,19802.04,7550.76,2.7,EasyPaisa,Completed,February,2,56-65
+10057,2025-02-26,Female,36,Karachi,Sports,Football,5,1625,10,7312.5,5945.41,1367.09,2.8,Cash,Completed,February,2,36-45
+10058,2025-02-27,Male,34,Peshawar,Clothing,Jeans,2,2029,15,3449.3,1962.12,1487.18,3.0,EasyPaisa,Completed,February,2,26-35
+10059,2025-02-28,Male,61,Peshawar,Sports,Running Shoes,5,26670,0,133350.0,93313.75,40036.25,5.0,EasyPaisa,Completed,February,2,56-65
+10060,2025-03-01,Female,50,Peshawar,Clothing,Jeans,4,8938,0,35752.0,26882.09,8869.91,2.5,Cash,Completed,March,3,46-55
+10061,2025-03-02,Male,29,Karachi,Clothing,Jeans,5,20595,10,92677.5,71247.66,21429.84,4.1,Bank Transfer,Returned,March,3,26-35
+10062,2025-03-03,Male,20,Faisalabad,Sports,Running Shoes,4,16654,20,53292.8,35265.63,18027.17,2.9,Card,Completed,March,3,18-25
+10063,2025-03-04,Female,60,Multan,Home,Chair,4,8504,5,32315.2,19554.73,12760.47,4.8,EasyPaisa,Completed,March,3,56-65
+10064,2025-03-05,Male,43,Rawalpindi,Clothing,Jacket,4,10252,10,36907.2,20720.9,16186.3,2.7,EasyPaisa,Completed,March,3,36-45
+10065,2025-03-06,Male,52,Karachi,Clothing,Jeans,4,43860,15,149124.0,105359.99,43764.01,4.9,Bank Transfer,Completed,March,3,46-55
+10066,2025-03-07,Female,25,Peshawar,Sports,Running Shoes,4,27319,15,92884.6,62445.02,30439.58,4.0,Bank Transfer,Completed,March,3,18-25
+10067,2025-03-08,Male,53,Faisalabad,Clothing,Shirt,2,37132,25,55698.0,44901.55,10796.45,2.5,JazzCash,Completed,March,3,46-55
+10068,2025-03-09,Male,24,Multan,Clothing,Shoes,1,27015,0,27015.0,15300.31,11714.69,4.7,Bank Transfer,Completed,March,3,18-25
+10069,2025-03-10,Male,63,Islamabad,Sports,Running Shoes,3,24717,15,63028.35,46329.41,16698.94,3.8,EasyPaisa,Completed,March,3,56-65
+10070,2025-03-11,Male,63,Lahore,Sports,Running Shoes,1,23672,10,21304.8,11861.25,9443.55,3.2,Cash,Completed,March,3,56-65
+10071,2025-03-12,Male,53,Peshawar,Electronics,Tablet,4,33494,15,113879.6,67904.95,45974.65,4.4,Card,Completed,March,3,46-55
+10072,2025-03-13,Male,33,Islamabad,Home,Cookware,2,15536,10,27964.8,18805.39,9159.41,4.8,JazzCash,Completed,March,3,26-35
+10073,2025-03-14,Male,41,Rawalpindi,Home,Cookware,5,12239,5,58135.25,39114.3,19020.95,3.7,Cash,Returned,March,3,36-45
+10074,2025-03-15,Male,18,Multan,Clothing,Jeans,2,32720,25,49080.0,36080.63,12999.37,3.3,Card,Completed,March,3,18-25
+10075,2025-03-16,Female,42,Multan,Home,Bedsheet,4,49916,0,199664.0,158884.13,40779.87,4.5,Card,Completed,March,3,36-45
+10076,2025-03-17,Female,27,Peshawar,Clothing,Shirt,2,10087,15,17147.9,12390.02,4757.88,4.2,Card,Completed,March,3,26-35
+10077,2025-03-18,Female,33,Multan,Electronics,Headphones,2,45017,10,81030.6,65428.52,15602.08,4.7,Cash,Completed,March,3,26-35
+10078,2025-03-19,Female,33,Islamabad,Sports,Gym Bag,4,30629,20,98012.8,77237.64,20775.16,4.2,JazzCash,Returned,March,3,26-35
+10079,2025-03-20,Male,25,Peshawar,Sports,Cricket Bat,2,1145,0,2290.0,1620.9,669.1,3.1,JazzCash,Completed,March,3,18-25
+10080,2025-03-21,Female,46,Karachi,Sports,Football,3,31430,5,89575.5,69432.1,20143.4,4.8,Card,Completed,March,3,46-55
+10081,2025-03-22,Female,56,Faisalabad,Home,Bedsheet,3,16799,10,45357.3,32815.82,12541.48,2.8,Cash,Cancelled,March,3,56-65
+10082,2025-03-23,Male,45,Islamabad,Electronics,Laptop,2,30590,25,45885.0,26210.0,19675.0,3.2,Card,Completed,March,3,36-45
+10083,2025-03-24,Male,23,Faisalabad,Home,Lamp,5,22453,25,84198.75,63145.06,21053.69,3.8,Bank Transfer,Completed,March,3,18-25
+10084,2025-03-25,Male,33,Karachi,Home,Lamp,4,46943,5,178383.4,102681.99,75701.41,3.9,JazzCash,Completed,March,3,26-35
+10085,2025-03-26,Male,37,Karachi,Electronics,Headphones,3,26975,5,76878.75,54614.84,22263.91,2.5,EasyPaisa,Completed,March,3,36-45
+10086,2025-03-27,Male,33,Faisalabad,Electronics,Headphones,5,19388,25,72705.0,53780.82,18924.18,4.5,Card,Completed,March,3,26-35
+10087,2025-03-28,Female,24,Islamabad,Electronics,Phone,2,44232,15,75194.4,42707.6,32486.8,3.4,Bank Transfer,Completed,March,3,18-25
+10088,2025-03-29,Male,58,Faisalabad,Electronics,Phone,5,16587,15,70494.75,43164.96,27329.79,3.5,JazzCash,Completed,March,3,56-65
+10089,2025-03-30,Female,31,Faisalabad,Sports,Gym Bag,1,46805,10,42124.5,33582.98,8541.52,4.5,Cash,Cancelled,March,3,26-35
+10090,2025-03-31,Female,60,Lahore,Beauty,Skincare,3,46537,20,111688.8,80014.41,31674.39,3.4,JazzCash,Completed,March,3,56-65
+10091,2025-04-01,Male,43,Islamabad,Beauty,Perfume,2,9846,10,17722.8,10926.06,6796.74,2.6,Cash,Completed,April,4,36-45
+10092,2025-04-02,Female,43,Lahore,Electronics,Laptop,4,1087,20,3478.4,2561.78,916.62,2.9,Cash,Completed,April,4,36-45
+10093,2025-04-03,Female,31,Peshawar,Beauty,Makeup,2,13263,5,25199.7,17920.25,7279.45,4.9,Card,Returned,April,4,26-35
+10094,2025-04-04,Male,24,Multan,Beauty,Perfume,4,42445,0,169780.0,116371.53,53408.47,2.7,Card,Completed,April,4,18-25
+10095,2025-04-05,Female,50,Faisalabad,Electronics,Tablet,2,4579,10,8242.2,6705.61,1536.59,3.4,JazzCash,Completed,April,4,46-55
+10096,2025-04-06,Female,43,Peshawar,Beauty,Perfume,5,36616,10,164772.0,121030.39,43741.61,3.8,Bank Transfer,Completed,April,4,36-45
+10097,2025-04-07,Female,62,Islamabad,Home,Lamp,5,20715,20,82860.0,53972.44,28887.56,3.7,JazzCash,Completed,April,4,56-65
+10098,2025-04-08,Male,37,Faisalabad,Clothing,Shoes,5,26317,5,125005.75,95756.88,29248.87,2.5,EasyPaisa,Returned,April,4,36-45
+10099,2025-04-09,Male,20,Multan,Clothing,Jeans,1,25265,5,24001.75,18933.48,5068.27,3.8,Cash,Completed,April,4,18-25
+10100,2025-04-10,Male,21,Peshawar,Electronics,Phone,4,30612,20,97958.4,57189.05,40769.35,3.5,Cash,Completed,April,4,18-25
+10101,2025-04-11,Female,43,Rawalpindi,Sports,Gym Bag,5,26056,5,123766.0,74773.14,48992.86,4.9,Card,Completed,April,4,36-45
+10102,2025-04-12,Male,28,Karachi,Electronics,Headphones,1,18599,25,13949.25,8486.46,5462.79,2.9,Bank Transfer,Completed,April,4,26-35
+10103,2025-04-13,Female,19,Faisalabad,Sports,Football,4,44053,15,149780.2,110332.17,39448.03,3.4,Card,Completed,April,4,18-25
+10104,2025-04-14,Male,31,Multan,Clothing,Shoes,2,45596,25,68394.0,48752.66,19641.34,3.5,EasyPaisa,Completed,April,4,26-35
+10105,2025-04-15,Female,61,Karachi,Electronics,Laptop,1,6950,0,6950.0,4984.04,1965.96,3.5,JazzCash,Completed,April,4,56-65
+10106,2025-04-16,Male,47,Lahore,Home,Cookware,3,13730,10,37071.0,29805.41,7265.59,4.2,JazzCash,Completed,April,4,46-55
+10107,2025-04-17,Male,29,Peshawar,Beauty,Perfume,1,29509,0,29509.0,22411.97,7097.03,3.0,Bank Transfer,Completed,April,4,26-35
+10108,2025-04-18,Female,43,Lahore,Sports,Gym Bag,1,5933,10,5339.7,3121.28,2218.42,3.1,Card,Completed,April,4,36-45
+10109,2025-04-19,Male,61,Multan,Beauty,Perfume,4,34366,15,116844.4,75227.57,41616.83,4.3,Card,Completed,April,4,56-65
+10110,2025-04-20,Female,50,Faisalabad,Beauty,Skincare,2,40364,5,76691.6,51195.96,25495.64,3.8,EasyPaisa,Completed,April,4,46-55
+10111,2025-04-21,Male,30,Karachi,Electronics,Headphones,3,19210,25,43222.5,28393.28,14829.22,3.5,JazzCash,Completed,April,4,26-35
+10112,2025-04-22,Male,31,Karachi,Beauty,Makeup,5,11939,20,47756.0,34895.95,12860.05,2.9,Card,Completed,April,4,26-35
+10113,2025-04-23,Female,41,Peshawar,Home,Cookware,5,42355,25,158831.25,125605.52,33225.73,3.0,Bank Transfer,Completed,April,4,36-45
+10114,2025-04-24,Female,51,Faisalabad,Beauty,Haircare,1,16521,15,14042.85,8883.98,5158.87,2.5,JazzCash,Completed,April,4,46-55
+10115,2025-04-25,Female,61,Rawalpindi,Electronics,Headphones,4,6916,0,27664.0,19337.32,8326.68,2.7,EasyPaisa,Returned,April,4,56-65
+10116,2025-04-26,Male,43,Rawalpindi,Home,Chair,4,7480,20,23936.0,18266.53,5669.47,3.9,Bank Transfer,Completed,April,4,36-45
+10117,2025-04-27,Female,38,Peshawar,Clothing,Shoes,5,18558,5,88150.5,58389.03,29761.47,4.7,Cash,Completed,April,4,36-45
+10118,2025-04-28,Male,45,Faisalabad,Beauty,Skincare,3,11601,15,29582.55,17613.21,11969.34,3.2,EasyPaisa,Completed,April,4,36-45
+10119,2025-04-29,Female,65,Peshawar,Electronics,Laptop,2,41218,20,65948.8,44728.9,21219.9,3.3,Bank Transfer,Completed,April,4,56-65
+10120,2025-04-30,Female,53,Faisalabad,Clothing,Shirt,3,33102,15,84410.1,47684.12,36725.98,2.8,Card,Returned,April,4,46-55
+10121,2025-05-01,Female,57,Multan,Clothing,Shirt,2,9622,15,16357.4,13158.6,3198.8,3.5,Cash,Returned,May,5,56-65
+10122,2025-05-02,Female,19,Multan,Sports,Football,5,13076,5,62111.0,35415.8,26695.2,2.6,EasyPaisa,Completed,May,5,18-25
+10123,2025-05-03,Female,59,Lahore,Home,Chair,2,28016,10,50428.8,33705.77,16723.03,4.8,Card,Completed,May,5,56-65
+10124,2025-05-04,Female,26,Peshawar,Beauty,Haircare,4,22933,20,73385.6,50861.21,22524.39,4.2,Cash,Completed,May,5,26-35
+10125,2025-05-05,Male,40,Faisalabad,Electronics,Tablet,1,1589,5,1509.55,1231.84,277.71,5.0,JazzCash,Completed,May,5,36-45
+10126,2025-05-06,Female,32,Rawalpindi,Sports,Running Shoes,1,37846,15,32169.1,19135.01,13034.09,4.7,Card,Completed,May,5,26-35
+10127,2025-05-07,Male,30,Faisalabad,Home,Chair,5,9627,5,45728.25,26563.38,19164.87,3.7,Bank Transfer,Completed,May,5,26-35
+10128,2025-05-08,Female,40,Multan,Sports,Football,4,10987,10,39553.2,21847.24,17705.96,3.8,EasyPaisa,Cancelled,May,5,36-45
+10129,2025-05-09,Female,34,Faisalabad,Home,Chair,3,655,25,1473.75,872.47,601.28,3.0,Cash,Returned,May,5,26-35
+10130,2025-05-10,Female,65,Peshawar,Home,Cookware,4,2458,20,7865.6,4766.27,3099.33,3.7,Card,Completed,May,5,56-65
+10131,2025-05-11,Male,19,Lahore,Beauty,Makeup,1,11193,10,10073.7,7255.65,2818.05,4.8,JazzCash,Completed,May,5,18-25
+10132,2025-05-12,Male,37,Lahore,Home,Chair,1,39612,0,39612.0,24136.42,15475.58,2.6,EasyPaisa,Completed,May,5,36-45
+10133,2025-05-13,Female,37,Lahore,Sports,Cricket Bat,4,39047,20,124950.4,69415.02,55535.38,4.7,EasyPaisa,Completed,May,5,36-45
+10134,2025-05-14,Male,63,Lahore,Home,Chair,4,29295,10,105462.0,81541.84,23920.16,3.4,Card,Completed,May,5,56-65
+10135,2025-05-15,Female,20,Multan,Beauty,Haircare,1,21947,15,18654.95,12101.67,6553.28,4.7,JazzCash,Completed,May,5,18-25
+10136,2025-05-16,Female,29,Islamabad,Beauty,Perfume,3,37098,20,89035.2,57472.05,31563.15,4.9,Cash,Completed,May,5,26-35
+10137,2025-05-17,Male,57,Peshawar,Sports,Cricket Bat,5,42314,20,169256.0,106913.83,62342.17,4.2,Card,Completed,May,5,56-65
+10138,2025-05-18,Male,19,Karachi,Clothing,Jeans,5,25715,5,122146.25,99347.75,22798.5,4.2,Cash,Completed,May,5,18-25
+10139,2025-05-19,Male,53,Peshawar,Clothing,Jeans,4,10294,15,34999.6,20857.35,14142.25,3.6,EasyPaisa,Returned,May,5,46-55
+10140,2025-05-20,Male,31,Islamabad,Home,Cookware,5,33709,0,168545.0,133576.0,34969.0,4.6,Cash,Completed,May,5,26-35
+10141,2025-05-21,Female,33,Lahore,Electronics,Headphones,1,22924,25,17193.0,13062.16,4130.84,4.9,JazzCash,Completed,May,5,26-35
+10142,2025-05-22,Male,36,Islamabad,Home,Bedsheet,1,47746,10,42971.4,24521.61,18449.79,4.4,Bank Transfer,Completed,May,5,36-45
+10143,2025-05-23,Male,51,Rawalpindi,Sports,Football,4,37896,5,144004.8,117567.95,26436.85,4.1,JazzCash,Completed,May,5,46-55
+10144,2025-05-24,Female,61,Rawalpindi,Sports,Gym Bag,4,6870,10,24732.0,15414.68,9317.32,4.0,Cash,Completed,May,5,56-65
+10145,2025-05-25,Male,63,Multan,Sports,Football,4,10028,0,40112.0,23129.28,16982.72,4.6,Card,Completed,May,5,56-65
+10146,2025-05-26,Male,23,Peshawar,Sports,Running Shoes,3,28776,0,86328.0,66810.52,19517.48,3.9,EasyPaisa,Returned,May,5,18-25
+10147,2025-05-27,Male,30,Peshawar,Sports,Running Shoes,5,44833,20,179332.0,132849.57,46482.43,4.5,Bank Transfer,Completed,May,5,26-35
+10148,2025-05-28,Male,53,Karachi,Beauty,Makeup,4,8679,0,34716.0,24879.19,9836.81,3.8,Card,Completed,May,5,46-55
+10149,2025-05-29,Female,39,Multan,Clothing,Shoes,2,49281,10,88705.8,52524.02,36181.78,2.7,Card,Completed,May,5,36-45
+10150,2025-05-30,Female,35,Karachi,Sports,Cricket Bat,2,17343,15,29483.1,20024.74,9458.36,3.5,JazzCash,Cancelled,May,5,26-35
+10151,2025-05-31,Male,29,Rawalpindi,Electronics,Phone,1,24452,15,20784.2,15811.58,4972.62,3.6,Cash,Completed,May,5,26-35
+10152,2025-06-01,Male,47,Lahore,Electronics,Headphones,5,33660,20,134640.0,85089.58,49550.42,2.9,JazzCash,Completed,June,6,46-55
+10153,2025-06-02,Female,57,Islamabad,Electronics,Phone,4,45398,25,136194.0,86368.28,49825.72,2.8,Cash,Completed,June,6,56-65
+10154,2025-06-03,Male,24,Karachi,Electronics,Phone,2,30016,10,54028.8,29761.66,24267.14,3.8,JazzCash,Returned,June,6,18-25
+10155,2025-06-04,Male,49,Faisalabad,Beauty,Haircare,5,10949,10,49270.5,29416.74,19853.76,2.7,Card,Completed,June,6,46-55
+10156,2025-06-05,Male,65,Karachi,Electronics,Laptop,1,21625,0,21625.0,17005.02,4619.98,3.3,EasyPaisa,Completed,June,6,56-65
+10157,2025-06-06,Male,36,Lahore,Sports,Running Shoes,3,7918,10,21378.6,14308.09,7070.51,4.4,Cash,Completed,June,6,36-45
+10158,2025-06-07,Male,23,Lahore,Home,Cookware,5,23246,5,110418.5,90073.15,20345.35,4.9,Bank Transfer,Completed,June,6,18-25
+10159,2025-06-08,Male,37,Peshawar,Electronics,Tablet,5,2954,25,11077.5,7276.16,3801.34,4.3,Bank Transfer,Completed,June,6,36-45
+10160,2025-06-09,Male,44,Islamabad,Beauty,Haircare,3,18261,0,54783.0,40709.27,14073.73,5.0,Card,Completed,June,6,36-45
+10161,2025-06-10,Male,60,Lahore,Beauty,Skincare,5,15723,5,74684.25,46761.16,27923.09,4.2,JazzCash,Completed,June,6,56-65
+10162,2025-06-11,Male,54,Multan,Electronics,Headphones,1,7201,20,5760.8,3734.32,2026.48,3.2,JazzCash,Completed,June,6,46-55
+10163,2025-06-12,Female,65,Karachi,Home,Lamp,1,3097,15,2632.45,1583.41,1049.04,4.2,Card,Completed,June,6,56-65
+10164,2025-06-13,Female,24,Karachi,Electronics,Tablet,3,641,20,1538.4,990.28,548.12,4.3,Bank Transfer,Completed,June,6,18-25
+10165,2025-06-14,Female,22,Rawalpindi,Beauty,Perfume,4,3159,15,10740.6,7494.3,3246.3,3.4,Bank Transfer,Cancelled,June,6,18-25
+10166,2025-06-15,Male,28,Lahore,Clothing,Shirt,2,21480,20,34368.0,28105.42,6262.58,2.5,JazzCash,Cancelled,June,6,26-35
+10167,2025-06-16,Male,32,Faisalabad,Sports,Running Shoes,4,9531,10,34311.6,25024.63,9286.97,4.3,Cash,Completed,June,6,26-35
+10168,2025-06-17,Female,20,Peshawar,Beauty,Makeup,5,15537,5,73800.75,44560.63,29240.12,2.6,EasyPaisa,Completed,June,6,18-25
+10169,2025-06-18,Male,22,Islamabad,Electronics,Tablet,2,47238,15,80304.6,45142.39,35162.21,4.1,Cash,Completed,June,6,18-25
+10170,2025-06-19,Female,40,Faisalabad,Sports,Running Shoes,3,38929,0,116787.0,68217.18,48569.82,2.9,Bank Transfer,Returned,June,6,36-45
+10171,2025-06-20,Male,54,Peshawar,Electronics,Headphones,3,6642,5,18929.7,13286.57,5643.13,3.9,Cash,Completed,June,6,46-55
+10172,2025-06-21,Female,26,Karachi,Electronics,Headphones,2,12609,0,25218.0,19079.77,6138.23,3.8,EasyPaisa,Completed,June,6,26-35
+10173,2025-06-22,Female,32,Faisalabad,Clothing,Shirt,1,22510,5,21384.5,17191.28,4193.22,2.5,Cash,Completed,June,6,26-35
+10174,2025-06-23,Female,20,Peshawar,Sports,Gym Bag,2,9287,5,17645.3,9780.3,7865.0,3.4,Cash,Returned,June,6,18-25
+10175,2025-06-24,Male,46,Karachi,Sports,Cricket Bat,5,43364,20,173456.0,119883.29,53572.71,4.0,Cash,Completed,June,6,46-55
+10176,2025-06-25,Female,23,Karachi,Clothing,Shirt,1,8972,15,7626.2,5163.96,2462.24,4.6,Cash,Completed,June,6,18-25
+10177,2025-06-26,Male,34,Karachi,Beauty,Makeup,3,23883,15,60901.65,44283.71,16617.94,4.7,Card,Completed,June,6,26-35
+10178,2025-06-27,Male,43,Karachi,Electronics,Laptop,2,4749,5,9023.1,6325.97,2697.13,3.7,Bank Transfer,Completed,June,6,36-45
+10179,2025-06-28,Male,38,Multan,Home,Cookware,4,48217,10,173581.2,127669.07,45912.13,4.3,EasyPaisa,Completed,June,6,36-45
+10180,2025-06-29,Male,25,Karachi,Electronics,Headphones,4,35018,10,126064.8,91735.12,34329.68,3.3,Bank Transfer,Completed,June,6,18-25
+10181,2025-06-30,Male,38,Rawalpindi,Electronics,Laptop,5,18851,0,94255.0,54818.06,39436.94,3.4,Card,Completed,June,6,36-45
+10182,2025-07-01,Male,28,Faisalabad,Beauty,Haircare,4,4588,0,18352.0,14056.23,4295.77,3.0,Card,Returned,July,7,26-35
+10183,2025-07-02,Male,55,Peshawar,Electronics,Headphones,2,15782,20,25251.2,14728.34,10522.86,3.9,Card,Completed,July,7,46-55
+10184,2025-07-03,Female,25,Rawalpindi,Clothing,Shoes,2,19830,5,37677.0,27828.36,9848.64,3.3,Card,Completed,July,7,18-25
+10185,2025-07-04,Female,59,Multan,Clothing,Jeans,4,42909,0,171636.0,113684.69,57951.31,2.7,Cash,Completed,July,7,56-65
+10186,2025-07-05,Female,41,Rawalpindi,Sports,Running Shoes,2,22278,0,44556.0,30687.49,13868.51,4.2,Bank Transfer,Completed,July,7,36-45
+10187,2025-07-06,Male,52,Lahore,Home,Bedsheet,5,24764,25,92865.0,73724.64,19140.36,4.3,JazzCash,Completed,July,7,46-55
+10188,2025-07-07,Male,31,Lahore,Electronics,Tablet,1,5575,5,5296.25,4185.46,1110.79,3.4,EasyPaisa,Completed,July,7,26-35
+10189,2025-07-08,Male,31,Lahore,Electronics,Phone,5,10912,20,43648.0,33644.8,10003.2,2.7,Card,Completed,July,7,26-35
+10190,2025-07-09,Male,27,Islamabad,Beauty,Haircare,5,48954,0,244770.0,168338.14,76431.86,3.6,Bank Transfer,Cancelled,July,7,26-35
+10191,2025-07-10,Female,29,Lahore,Clothing,Shoes,2,28865,20,46184.0,34581.87,11602.13,3.6,Card,Returned,July,7,26-35
+10192,2025-07-11,Male,55,Peshawar,Home,Chair,1,7730,15,6570.5,4523.67,2046.83,4.2,Card,Cancelled,July,7,46-55
+10193,2025-07-12,Female,61,Rawalpindi,Sports,Running Shoes,2,48700,20,77920.0,61151.12,16768.88,3.3,Card,Completed,July,7,56-65
+10194,2025-07-13,Male,63,Peshawar,Clothing,Shoes,3,11502,10,31055.4,20457.73,10597.67,4.2,Card,Completed,July,7,56-65
+10195,2025-07-14,Female,51,Faisalabad,Sports,Gym Bag,2,14447,10,26004.6,21114.79,4889.81,4.7,Card,Completed,July,7,46-55
+10196,2025-07-15,Male,58,Lahore,Beauty,Haircare,2,14186,20,22697.6,18197.28,4500.32,3.1,EasyPaisa,Completed,July,7,56-65
+10197,2025-07-16,Female,27,Multan,Beauty,Perfume,2,29804,10,53647.2,40247.88,13399.32,4.9,Bank Transfer,Completed,July,7,26-35
+10198,2025-07-17,Male,34,Islamabad,Electronics,Phone,1,13574,15,11537.9,7216.29,4321.61,3.5,Card,Completed,July,7,26-35
+10199,2025-07-18,Female,34,Faisalabad,Home,Lamp,2,4993,5,9486.7,5554.9,3931.8,3.2,Card,Completed,July,7,26-35
+10200,2025-07-19,Male,20,Multan,Sports,Cricket Bat,1,34728,10,31255.2,24403.12,6852.08,3.6,Card,Completed,July,7,18-25
+10201,2025-07-20,Female,48,Islamabad,Clothing,Jacket,4,14640,10,52704.0,31339.46,21364.54,2.7,Card,Completed,July,7,46-55
+10202,2025-07-21,Female,18,Faisalabad,Beauty,Makeup,3,32155,20,77172.0,60244.35,16927.65,2.8,Cash,Completed,July,7,18-25
+10203,2025-07-22,Male,29,Rawalpindi,Electronics,Tablet,1,43972,15,37376.2,25509.5,11866.7,3.5,Cash,Completed,July,7,26-35
+10204,2025-07-23,Female,56,Peshawar,Electronics,Phone,4,49937,5,189760.6,125198.41,64562.19,4.4,JazzCash,Returned,July,7,56-65
+10205,2025-07-24,Male,21,Karachi,Sports,Running Shoes,1,49916,20,39932.8,31701.11,8231.69,4.8,Card,Completed,July,7,18-25
+10206,2025-07-25,Male,59,Peshawar,Beauty,Skincare,1,7316,20,5852.8,4173.28,1679.52,4.2,JazzCash,Completed,July,7,56-65
+10207,2025-07-26,Male,30,Lahore,Home,Cookware,3,12139,25,27312.75,19274.22,8038.53,2.8,EasyPaisa,Cancelled,July,7,26-35
+10208,2025-07-27,Female,51,Multan,Beauty,Perfume,5,47692,15,202691.0,142059.39,60631.61,4.2,JazzCash,Completed,July,7,46-55
+10209,2025-07-28,Female,59,Karachi,Sports,Running Shoes,5,47233,5,224356.75,145880.3,78476.45,4.1,Bank Transfer,Cancelled,July,7,56-65
+10210,2025-07-29,Male,38,Islamabad,Sports,Football,1,29992,15,25493.2,19428.97,6064.23,4.5,Cash,Completed,July,7,36-45
+10211,2025-07-30,Male,39,Rawalpindi,Beauty,Makeup,2,11740,5,22306.0,13790.81,8515.19,4.6,Cash,Completed,July,7,36-45
+10212,2025-07-31,Female,21,Rawalpindi,Sports,Gym Bag,4,33198,15,112873.2,90693.8,22179.4,4.7,Card,Completed,July,7,18-25
+10213,2025-08-01,Female,35,Islamabad,Beauty,Perfume,2,27457,20,43931.2,34766.1,9165.1,3.5,Card,Completed,August,8,26-35
+10214,2025-08-02,Female,22,Lahore,Clothing,Jacket,2,33308,20,53292.8,34167.06,19125.74,4.2,EasyPaisa,Returned,August,8,18-25
+10215,2025-08-03,Male,36,Islamabad,Beauty,Haircare,1,6327,0,6327.0,4725.99,1601.01,3.2,EasyPaisa,Completed,August,8,36-45
+10216,2025-08-04,Male,19,Faisalabad,Beauty,Perfume,1,33262,10,29935.8,21097.86,8837.94,5.0,Bank Transfer,Completed,August,8,18-25
+10217,2025-08-05,Male,29,Multan,Sports,Gym Bag,1,8759,25,6569.25,4211.98,2357.27,2.9,Card,Completed,August,8,26-35
+10218,2025-08-06,Male,34,Multan,Sports,Cricket Bat,1,15349,15,13046.65,10657.82,2388.83,2.5,Card,Completed,August,8,26-35
+10219,2025-08-07,Male,27,Lahore,Electronics,Phone,5,16732,25,62745.0,34937.3,27807.7,2.9,EasyPaisa,Completed,August,8,26-35
+10220,2025-08-08,Female,51,Karachi,Electronics,Laptop,1,41072,0,41072.0,25391.3,15680.7,4.4,EasyPaisa,Completed,August,8,46-55
+10221,2025-08-09,Male,23,Islamabad,Clothing,Jacket,5,24673,10,111028.5,76656.3,34372.2,3.6,EasyPaisa,Completed,August,8,18-25
+10222,2025-08-10,Female,25,Lahore,Electronics,Laptop,5,5874,15,24964.5,17248.65,7715.85,3.6,Cash,Completed,August,8,18-25
+10223,2025-08-11,Female,28,Multan,Beauty,Haircare,1,21674,5,20590.3,14598.77,5991.53,4.9,JazzCash,Completed,August,8,26-35
+10224,2025-08-12,Male,29,Karachi,Sports,Running Shoes,3,24067,10,64980.9,48927.54,16053.36,4.8,JazzCash,Completed,August,8,26-35
+10225,2025-08-13,Female,26,Islamabad,Electronics,Phone,4,35792,20,114534.4,82274.53,32259.87,3.3,Card,Completed,August,8,26-35
+10226,2025-08-14,Male,19,Rawalpindi,Electronics,Headphones,2,9777,0,19554.0,13923.93,5630.07,3.0,Cash,Returned,August,8,18-25
+10227,2025-08-15,Female,25,Islamabad,Clothing,Jeans,5,32100,10,144450.0,81534.64,62915.36,4.6,EasyPaisa,Completed,August,8,18-25
+10228,2025-08-16,Male,28,Peshawar,Clothing,Jacket,4,10385,10,37386.0,24363.08,13022.92,4.8,Card,Completed,August,8,26-35
+10229,2025-08-17,Male,53,Islamabad,Beauty,Makeup,3,1278,20,3067.2,1879.14,1188.06,3.9,Cash,Completed,August,8,46-55
+10230,2025-08-18,Female,27,Peshawar,Sports,Running Shoes,2,29665,15,50430.5,31350.12,19080.38,4.1,Bank Transfer,Completed,August,8,26-35
+10231,2025-08-19,Male,38,Karachi,Clothing,Shoes,2,1992,5,3784.8,2648.12,1136.68,3.1,Cash,Completed,August,8,36-45
+10232,2025-08-20,Female,37,Islamabad,Electronics,Tablet,5,30962,20,123848.0,74787.65,49060.35,4.5,Card,Completed,August,8,36-45
+10233,2025-08-21,Male,65,Karachi,Sports,Football,1,14115,5,13409.25,8439.33,4969.92,4.1,JazzCash,Completed,August,8,56-65
+10234,2025-08-22,Male,25,Karachi,Sports,Football,3,45400,15,115770.0,71084.27,44685.73,3.8,EasyPaisa,Completed,August,8,18-25
+10235,2025-08-23,Male,53,Multan,Electronics,Phone,5,43446,10,195507.0,157597.37,37909.63,2.7,Bank Transfer,Completed,August,8,46-55
+10236,2025-08-24,Female,46,Lahore,Clothing,Shoes,3,8351,5,23800.35,19160.7,4639.65,4.8,Cash,Completed,August,8,46-55
+10237,2025-08-25,Female,59,Karachi,Electronics,Phone,1,16788,0,16788.0,11998.12,4789.88,4.0,Card,Completed,August,8,56-65
+10238,2025-08-26,Male,29,Karachi,Sports,Football,1,7656,0,7656.0,6121.9,1534.1,3.0,Card,Completed,August,8,26-35
+10239,2025-08-27,Female,31,Multan,Home,Chair,5,2544,20,10176.0,7755.84,2420.16,4.0,EasyPaisa,Returned,August,8,26-35
+10240,2025-08-28,Male,65,Multan,Home,Lamp,1,7868,15,6687.8,4743.56,1944.24,4.2,Card,Completed,August,8,56-65
+10241,2025-08-29,Female,38,Islamabad,Beauty,Haircare,4,20400,20,65280.0,36017.42,29262.58,3.8,Card,Completed,August,8,36-45
+10242,2025-08-30,Female,39,Multan,Electronics,Headphones,2,31100,20,49760.0,37746.91,12013.09,4.3,EasyPaisa,Completed,August,8,36-45
+10243,2025-08-31,Male,38,Islamabad,Electronics,Tablet,5,46903,25,175886.25,130098.11,45788.14,4.0,Bank Transfer,Returned,August,8,36-45
+10244,2025-09-01,Male,61,Rawalpindi,Beauty,Skincare,3,26134,20,62721.6,44916.1,17805.5,4.9,JazzCash,Completed,September,9,56-65
+10245,2025-09-02,Male,47,Multan,Beauty,Skincare,4,9668,25,29004.0,21907.14,7096.86,2.6,JazzCash,Completed,September,9,46-55
+10246,2025-09-03,Male,56,Lahore,Beauty,Haircare,5,21461,0,107305.0,73878.31,33426.69,2.8,Cash,Completed,September,9,56-65
+10247,2025-09-04,Male,37,Karachi,Sports,Gym Bag,1,44596,0,44596.0,33005.61,11590.39,2.9,Bank Transfer,Completed,September,9,36-45
+10248,2025-09-05,Female,41,Lahore,Electronics,Laptop,1,46587,20,37269.6,29908.72,7360.88,4.2,Cash,Completed,September,9,36-45
+10249,2025-09-06,Female,40,Peshawar,Sports,Cricket Bat,1,24352,0,24352.0,15864.53,8487.47,4.1,JazzCash,Completed,September,9,36-45
+10250,2025-09-07,Male,24,Multan,Beauty,Skincare,1,33610,15,28568.5,21174.77,7393.73,4.7,EasyPaisa,Cancelled,September,9,18-25
+10251,2025-09-08,Male,26,Karachi,Electronics,Tablet,3,32674,25,73516.5,49876.22,23640.28,4.3,Card,Completed,September,9,26-35
+10252,2025-09-09,Male,18,Lahore,Sports,Running Shoes,4,34715,25,104145.0,76243.29,27901.71,3.8,JazzCash,Completed,September,9,18-25
+10253,2025-09-10,Female,43,Multan,Sports,Cricket Bat,2,27455,20,43928.0,33208.74,10719.26,5.0,Bank Transfer,Completed,September,9,36-45
+10254,2025-09-11,Male,55,Multan,Beauty,Makeup,3,7081,0,21243.0,11944.35,9298.65,3.2,JazzCash,Completed,September,9,46-55
+10255,2025-09-12,Male,55,Rawalpindi,Electronics,Tablet,3,45119,5,128589.15,93173.4,35415.75,4.6,Bank Transfer,Cancelled,September,9,46-55
+10256,2025-09-13,Female,61,Rawalpindi,Beauty,Haircare,2,6817,25,10225.5,6250.03,3975.47,3.6,Bank Transfer,Completed,September,9,56-65
+10257,2025-09-14,Female,39,Karachi,Electronics,Laptop,2,43356,20,69369.6,50702.85,18666.75,4.1,Bank Transfer,Completed,September,9,36-45
+10258,2025-09-15,Female,61,Peshawar,Home,Chair,1,46214,20,36971.2,25009.14,11962.06,4.3,Cash,Completed,September,9,56-65
+10259,2025-09-16,Female,27,Rawalpindi,Clothing,Jacket,3,27149,15,69229.95,52535.79,16694.16,4.1,EasyPaisa,Completed,September,9,26-35
+10260,2025-09-17,Male,23,Rawalpindi,Clothing,Shirt,5,23632,10,106344.0,62032.39,44311.61,2.9,JazzCash,Completed,September,9,18-25
+10261,2025-09-18,Female,34,Peshawar,Clothing,Jeans,2,17289,10,31120.2,22378.75,8741.45,3.6,EasyPaisa,Returned,September,9,26-35
+10262,2025-09-19,Female,55,Lahore,Beauty,Perfume,2,15067,25,22600.5,14129.54,8470.96,3.9,Card,Cancelled,September,9,46-55
+10263,2025-09-20,Male,41,Rawalpindi,Home,Bedsheet,4,15368,15,52251.2,40771.88,11479.32,4.6,JazzCash,Completed,September,9,36-45
+10264,2025-09-21,Male,27,Islamabad,Electronics,Phone,5,24870,15,105697.5,84628.14,21069.36,3.6,EasyPaisa,Completed,September,9,26-35
+10265,2025-09-22,Male,25,Faisalabad,Sports,Football,5,43033,15,182890.25,149792.15,33098.1,4.8,EasyPaisa,Completed,September,9,18-25
+10266,2025-09-23,Female,38,Faisalabad,Electronics,Laptop,2,30983,25,46474.5,35549.37,10925.13,3.6,Card,Returned,September,9,36-45
+10267,2025-09-24,Male,23,Rawalpindi,Sports,Running Shoes,1,12966,10,11669.4,8792.99,2876.41,3.9,Bank Transfer,Completed,September,9,18-25
+10268,2025-09-25,Female,38,Lahore,Electronics,Laptop,4,29303,15,99630.2,60593.61,39036.59,4.5,JazzCash,Completed,September,9,36-45
+10269,2025-09-26,Female,56,Multan,Home,Chair,5,18730,0,93650.0,60003.61,33646.39,4.0,JazzCash,Completed,September,9,56-65
+10270,2025-09-27,Female,41,Lahore,Sports,Cricket Bat,2,18362,20,29379.2,19852.53,9526.67,4.9,Card,Completed,September,9,36-45
+10271,2025-09-28,Male,50,Karachi,Beauty,Makeup,5,43855,20,175420.0,133110.96,42309.04,4.2,Bank Transfer,Cancelled,September,9,46-55
+10272,2025-09-29,Female,35,Islamabad,Electronics,Phone,4,31759,5,120684.2,96190.23,24493.97,3.8,JazzCash,Completed,September,9,26-35
+10273,2025-09-30,Male,45,Lahore,Electronics,Tablet,4,34039,5,129348.2,77747.01,51601.19,2.6,JazzCash,Completed,September,9,36-45
+10274,2025-10-01,Male,49,Peshawar,Sports,Cricket Bat,3,22409,25,50420.25,40287.76,10132.49,3.5,JazzCash,Completed,October,10,46-55
+10275,2025-10-02,Male,29,Islamabad,Beauty,Skincare,2,31295,25,46942.5,34635.05,12307.45,3.2,Bank Transfer,Completed,October,10,26-35
+10276,2025-10-03,Female,65,Faisalabad,Beauty,Perfume,4,49568,20,158617.6,113397.01,45220.59,4.4,Card,Completed,October,10,56-65
+10277,2025-10-04,Female,59,Islamabad,Home,Lamp,3,9270,0,27810.0,16796.05,11013.95,3.0,JazzCash,Completed,October,10,56-65
+10278,2025-10-05,Female,44,Peshawar,Beauty,Skincare,3,11593,10,31301.1,17684.86,13616.24,3.0,EasyPaisa,Completed,October,10,36-45
+10279,2025-10-06,Male,27,Rawalpindi,Beauty,Makeup,5,47071,10,211819.5,149011.95,62807.55,3.0,Bank Transfer,Completed,October,10,26-35
+10280,2025-10-07,Female,63,Peshawar,Beauty,Perfume,5,693,25,2598.75,1886.46,712.29,2.8,Cash,Completed,October,10,56-65
+10281,2025-10-08,Female,59,Peshawar,Clothing,Jacket,3,35275,0,105825.0,64226.36,41598.64,3.3,Card,Completed,October,10,56-65
+10282,2025-10-09,Female,49,Rawalpindi,Home,Chair,5,18069,25,67758.75,47447.6,20311.15,4.7,EasyPaisa,Completed,October,10,46-55
+10283,2025-10-10,Female,59,Rawalpindi,Electronics,Phone,4,11690,10,42084.0,32878.26,9205.74,4.4,JazzCash,Completed,October,10,56-65
+10284,2025-10-11,Female,43,Rawalpindi,Sports,Gym Bag,1,43252,25,32439.0,25155.4,7283.6,4.3,Cash,Completed,October,10,36-45
+10285,2025-10-12,Male,42,Rawalpindi,Electronics,Laptop,4,32827,15,111611.8,89332.51,22279.29,4.5,Card,Completed,October,10,36-45
+10286,2025-10-13,Male,28,Rawalpindi,Home,Chair,3,42570,25,95782.5,62142.65,33639.85,3.2,Bank Transfer,Completed,October,10,26-35
+10287,2025-10-14,Male,40,Peshawar,Sports,Gym Bag,3,20889,20,50133.6,31878.62,18254.98,4.7,Cash,Completed,October,10,36-45
+10288,2025-10-15,Male,51,Karachi,Home,Lamp,4,40697,25,122091.0,91854.56,30236.44,2.8,Cash,Cancelled,October,10,46-55
+10289,2025-10-16,Female,57,Karachi,Beauty,Skincare,5,2761,20,11044.0,7359.73,3684.27,3.3,EasyPaisa,Completed,October,10,56-65
+10290,2025-10-17,Male,40,Lahore,Sports,Cricket Bat,5,28869,0,144345.0,82801.8,61543.2,4.0,Card,Completed,October,10,36-45
+10291,2025-10-18,Female,46,Karachi,Beauty,Perfume,3,27012,10,72932.4,45681.67,27250.73,2.8,EasyPaisa,Completed,October,10,46-55
+10292,2025-10-19,Male,48,Faisalabad,Electronics,Laptop,2,7216,5,13710.4,9090.23,4620.17,4.3,EasyPaisa,Completed,October,10,46-55
+10293,2025-10-20,Male,24,Karachi,Electronics,Laptop,5,21759,5,103355.25,65008.33,38346.92,3.5,JazzCash,Cancelled,October,10,18-25
+10294,2025-10-21,Male,57,Peshawar,Sports,Cricket Bat,4,29433,10,105958.8,67781.37,38177.43,4.5,Bank Transfer,Completed,October,10,56-65
+10295,2025-10-22,Female,50,Rawalpindi,Sports,Cricket Bat,5,42189,5,200397.75,126114.21,74283.54,3.7,Cash,Returned,October,10,46-55
+10296,2025-10-23,Female,38,Rawalpindi,Home,Bedsheet,4,4878,25,14634.0,8212.67,6421.33,3.0,Card,Completed,October,10,36-45
+10297,2025-10-24,Male,19,Multan,Home,Cookware,3,41083,0,123249.0,88987.7,34261.3,4.3,Bank Transfer,Cancelled,October,10,18-25
+10298,2025-10-25,Female,35,Multan,Beauty,Perfume,5,47046,0,235230.0,167311.8,67918.2,3.1,Bank Transfer,Cancelled,October,10,26-35
+10299,2025-10-26,Male,64,Multan,Sports,Cricket Bat,4,20335,10,73206.0,53177.83,20028.17,3.7,Card,Returned,October,10,56-65
+10300,2025-10-27,Male,50,Peshawar,Electronics,Phone,3,29533,5,84169.05,50663.34,33505.71,2.7,Bank Transfer,Completed,October,10,46-55
+10301,2025-10-28,Male,54,Faisalabad,Home,Lamp,2,24500,25,36750.0,23146.13,13603.87,4.0,JazzCash,Completed,October,10,46-55
+10302,2025-10-29,Female,51,Karachi,Home,Cookware,4,45996,0,183984.0,131971.04,52012.96,4.2,Bank Transfer,Completed,October,10,46-55
+10303,2025-10-30,Male,37,Peshawar,Electronics,Laptop,2,10832,0,21664.0,15422.59,6241.41,3.4,JazzCash,Completed,October,10,36-45
+10304,2025-10-31,Male,52,Lahore,Home,Cookware,2,43104,15,73276.8,50319.85,22956.95,4.9,Cash,Cancelled,October,10,46-55
+10305,2025-11-01,Male,35,Rawalpindi,Beauty,Skincare,1,3300,15,2805.0,1808.14,996.86,4.7,Cash,Completed,November,11,26-35
+10306,2025-11-02,Female,63,Multan,Sports,Running Shoes,5,30038,0,150190.0,119625.04,30564.96,4.3,EasyPaisa,Cancelled,November,11,56-65
+10307,2025-11-03,Male,41,Islamabad,Electronics,Tablet,4,30619,10,110228.4,70737.75,39490.65,4.3,JazzCash,Completed,November,11,36-45
+10308,2025-11-04,Female,25,Lahore,Sports,Cricket Bat,2,8833,20,14132.8,9511.62,4621.18,3.1,Cash,Completed,November,11,18-25
+10309,2025-11-05,Male,47,Multan,Home,Bedsheet,1,5910,20,4728.0,3466.05,1261.95,4.1,Bank Transfer,Completed,November,11,46-55
+10310,2025-11-06,Female,61,Faisalabad,Home,Lamp,3,18339,25,41262.75,28744.28,12518.47,3.0,Card,Completed,November,11,56-65
+10311,2025-11-07,Male,27,Lahore,Electronics,Laptop,4,31019,0,124076.0,79862.66,44213.34,2.9,Card,Completed,November,11,26-35
+10312,2025-11-08,Male,40,Peshawar,Beauty,Perfume,2,6308,0,12616.0,8422.75,4193.25,5.0,JazzCash,Completed,November,11,36-45
+10313,2025-11-09,Female,28,Karachi,Clothing,Jacket,5,7296,0,36480.0,27889.32,8590.68,4.1,EasyPaisa,Cancelled,November,11,26-35
+10314,2025-11-10,Female,19,Rawalpindi,Electronics,Phone,1,21680,10,19512.0,12196.85,7315.15,3.6,Bank Transfer,Completed,November,11,18-25
+10315,2025-11-11,Male,43,Faisalabad,Clothing,Shirt,2,43556,15,74045.2,43568.86,30476.34,3.2,JazzCash,Completed,November,11,36-45
+10316,2025-11-12,Female,53,Faisalabad,Clothing,Shirt,5,18209,0,91045.0,57772.97,33272.03,4.0,Card,Completed,November,11,46-55
+10317,2025-11-13,Male,50,Islamabad,Beauty,Skincare,2,18043,0,36086.0,28124.5,7961.5,2.6,JazzCash,Completed,November,11,46-55
+10318,2025-11-14,Male,64,Lahore,Clothing,Shirt,4,37918,5,144088.4,82710.66,61377.74,2.7,Bank Transfer,Completed,November,11,56-65
+10319,2025-11-15,Male,30,Islamabad,Clothing,Shoes,4,29575,10,106470.0,87066.69,19403.31,2.6,Cash,Completed,November,11,26-35
+10320,2025-11-16,Female,57,Karachi,Beauty,Skincare,4,38255,25,114765.0,79884.56,34880.44,3.7,Bank Transfer,Completed,November,11,56-65
+10321,2025-11-17,Male,42,Multan,Clothing,Jeans,1,48468,0,48468.0,39545.45,8922.55,4.0,Cash,Completed,November,11,36-45
+10322,2025-11-18,Female,21,Karachi,Clothing,Jeans,4,37965,5,144267.0,115922.72,28344.28,2.7,Cash,Completed,November,11,18-25
+10323,2025-11-19,Male,59,Multan,Clothing,Shoes,5,31002,20,124008.0,83365.58,40642.42,4.3,Cash,Returned,November,11,56-65
+10324,2025-11-20,Female,36,Islamabad,Electronics,Phone,2,17224,25,25836.0,15594.42,10241.58,3.1,JazzCash,Completed,November,11,36-45
+10325,2025-11-21,Female,35,Rawalpindi,Electronics,Tablet,3,4328,0,12984.0,7719.23,5264.77,4.2,Card,Completed,November,11,26-35
+10326,2025-11-22,Male,54,Karachi,Electronics,Phone,5,17587,0,87935.0,54062.19,33872.81,5.0,JazzCash,Completed,November,11,46-55
+10327,2025-11-23,Female,47,Islamabad,Beauty,Makeup,5,13105,5,62248.75,46172.13,16076.62,4.2,Card,Completed,November,11,46-55
+10328,2025-11-24,Male,36,Lahore,Home,Lamp,4,31837,10,114613.2,71483.85,43129.35,4.7,Bank Transfer,Completed,November,11,36-45
+10329,2025-11-25,Male,40,Islamabad,Clothing,Jacket,1,5982,0,5982.0,3841.55,2140.45,4.9,EasyPaisa,Completed,November,11,36-45
+10330,2025-11-26,Male,33,Islamabad,Clothing,Shirt,2,27505,20,44008.0,29536.86,14471.14,3.7,Bank Transfer,Completed,November,11,26-35
+10331,2025-11-27,Male,18,Peshawar,Beauty,Haircare,1,23260,0,23260.0,18528.28,4731.72,4.3,JazzCash,Completed,November,11,18-25
+10332,2025-11-28,Male,29,Karachi,Clothing,Jacket,2,5963,20,9540.8,5735.32,3805.48,4.6,JazzCash,Completed,November,11,26-35
+10333,2025-11-29,Female,41,Rawalpindi,Electronics,Phone,2,47128,25,70692.0,38976.54,31715.46,3.4,Card,Completed,November,11,36-45
+10334,2025-11-30,Male,51,Rawalpindi,Home,Lamp,1,5412,25,4059.0,2298.31,1760.69,3.2,JazzCash,Completed,November,11,46-55
+10335,2025-12-01,Female,25,Peshawar,Sports,Football,5,5148,15,21879.0,17378.2,4500.8,4.9,Cash,Completed,December,12,18-25
+10336,2025-12-02,Female,35,Multan,Clothing,Jacket,2,34123,15,58009.1,42046.7,15962.4,4.3,JazzCash,Completed,December,12,26-35
+10337,2025-12-03,Male,65,Faisalabad,Electronics,Tablet,1,36134,20,28907.2,18030.03,10877.17,3.0,Card,Completed,December,12,56-65
+10338,2025-12-04,Female,22,Multan,Sports,Running Shoes,2,45102,10,81183.6,48534.96,32648.64,3.6,Card,Completed,December,12,18-25
+10339,2025-12-05,Male,43,Rawalpindi,Home,Bedsheet,3,49562,0,148686.0,93590.7,55095.3,4.5,Cash,Completed,December,12,36-45
+10340,2025-12-06,Female,47,Islamabad,Sports,Gym Bag,5,49834,0,249170.0,144766.57,104403.43,3.9,Card,Completed,December,12,46-55
+10341,2025-12-07,Female,30,Peshawar,Electronics,Laptop,4,3612,15,12280.8,9876.39,2404.41,4.1,EasyPaisa,Cancelled,December,12,26-35
+10342,2025-12-08,Female,36,Lahore,Sports,Running Shoes,2,22554,20,36086.4,27488.3,8598.1,4.4,Bank Transfer,Completed,December,12,36-45
+10343,2025-12-09,Male,46,Karachi,Beauty,Makeup,3,4992,0,14976.0,10106.49,4869.51,4.1,JazzCash,Completed,December,12,46-55
+10344,2025-12-10,Female,20,Karachi,Sports,Gym Bag,4,22707,0,90828.0,71167.36,19660.64,3.9,EasyPaisa,Completed,December,12,18-25
+10345,2025-12-11,Male,43,Karachi,Clothing,Jacket,4,15614,10,56210.4,34701.7,21508.7,4.4,JazzCash,Completed,December,12,36-45
+10346,2025-12-12,Female,57,Islamabad,Clothing,Jeans,2,34785,5,66091.5,49147.13,16944.37,4.3,EasyPaisa,Completed,December,12,56-65
+10347,2025-12-13,Female,29,Lahore,Beauty,Skincare,1,16518,15,14040.3,10967.66,3072.64,4.1,JazzCash,Completed,December,12,26-35
+10348,2025-12-14,Female,19,Peshawar,Electronics,Headphones,2,21886,15,37206.2,24047.39,13158.81,3.4,Cash,Completed,December,12,18-25
+10349,2025-12-15,Female,28,Peshawar,Clothing,Jacket,3,18240,5,51984.0,39222.73,12761.27,3.5,Card,Returned,December,12,26-35
+10350,2025-12-16,Male,61,Karachi,Home,Bedsheet,4,44699,0,178796.0,112582.39,66213.61,4.9,Card,Completed,December,12,56-65
+10351,2025-12-17,Male,45,Lahore,Clothing,Jeans,2,8710,10,15678.0,9887.98,5790.02,2.8,Cash,Completed,December,12,36-45
+10352,2025-12-18,Female,35,Lahore,Clothing,Jeans,1,44863,10,40376.7,23374.29,17002.41,3.2,EasyPaisa,Completed,December,12,26-35
+10353,2025-12-19,Female,30,Lahore,Electronics,Laptop,2,46139,15,78436.3,52459.43,25976.87,3.7,Bank Transfer,Completed,December,12,26-35
+10354,2025-12-20,Male,54,Rawalpindi,Sports,Gym Bag,5,13243,10,59593.5,44517.67,15075.83,4.6,EasyPaisa,Completed,December,12,46-55
+10355,2025-12-21,Male,39,Rawalpindi,Clothing,Shirt,1,42592,25,31944.0,25678.49,6265.51,2.9,Card,Completed,December,12,36-45
+10356,2025-12-22,Male,29,Karachi,Beauty,Skincare,3,44799,5,127677.15,91037.02,36640.13,3.2,Bank Transfer,Completed,December,12,26-35
+10357,2025-12-23,Male,19,Lahore,Sports,Gym Bag,4,7088,0,28352.0,22200.94,6151.06,2.7,JazzCash,Completed,December,12,18-25
+10358,2025-12-24,Female,54,Faisalabad,Home,Cookware,2,3811,25,5716.5,4413.56,1302.94,4.3,Bank Transfer,Completed,December,12,46-55
+10359,2025-12-25,Female,24,Lahore,Electronics,Tablet,1,22932,5,21785.4,13001.58,8783.82,3.1,EasyPaisa,Completed,December,12,18-25
+10360,2025-12-26,Male,43,Peshawar,Home,Cookware,5,34255,20,137020.0,93334.01,43685.99,3.5,Cash,Returned,December,12,36-45
+10361,2025-12-27,Male,43,Peshawar,Sports,Running Shoes,1,3821,15,3247.85,1888.85,1359.0,3.6,JazzCash,Completed,December,12,36-45
+10362,2025-12-28,Male,41,Karachi,Sports,Gym Bag,5,16312,10,73404.0,53891.85,19512.15,4.7,EasyPaisa,Completed,December,12,36-45
+10363,2025-12-29,Male,29,Faisalabad,Sports,Running Shoes,3,37883,20,90919.2,73323.87,17595.33,3.5,JazzCash,Completed,December,12,26-35
+10364,2025-12-30,Male,33,Lahore,Home,Lamp,4,48780,10,175608.0,103084.38,72523.62,2.9,Bank Transfer,Completed,December,12,26-35
+10365,2025-12-31,Male,40,Multan,Sports,Cricket Bat,3,13646,25,30703.5,22970.78,7732.72,3.8,Card,Completed,December,12,36-45
+10366,2026-01-01,Female,57,Faisalabad,Home,Cookware,2,14154,0,28308.0,20401.7,7906.3,4.9,EasyPaisa,Completed,January,1,56-65
+10367,2026-01-02,Female,26,Karachi,Sports,Football,1,36320,0,36320.0,25699.06,10620.94,4.0,Cash,Completed,January,1,26-35
+10368,2026-01-03,Female,49,Peshawar,Beauty,Makeup,5,1226,0,6130.0,4017.19,2112.81,5.0,Bank Transfer,Completed,January,1,46-55
+10369,2026-01-04,Male,32,Multan,Sports,Cricket Bat,5,4260,10,19170.0,12381.63,6788.37,4.6,EasyPaisa,Completed,January,1,26-35
+10370,2026-01-05,Male,54,Peshawar,Home,Lamp,1,22690,20,18152.0,10205.37,7946.63,2.6,Cash,Completed,January,1,46-55
+10371,2026-01-06,Male,30,Rawalpindi,Clothing,Jeans,1,2375,0,2375.0,1445.98,929.02,4.1,EasyPaisa,Completed,January,1,26-35
+10372,2026-01-07,Female,22,Karachi,Sports,Cricket Bat,2,23877,20,38203.2,21168.31,17034.89,3.2,Bank Transfer,Completed,January,1,18-25
+10373,2026-01-08,Male,28,Karachi,Clothing,Shirt,3,47237,10,127539.9,90168.49,37371.41,3.9,EasyPaisa,Returned,January,1,26-35
+10374,2026-01-09,Male,27,Lahore,Beauty,Perfume,5,4533,25,16998.75,9835.14,7163.61,3.2,JazzCash,Completed,January,1,26-35
+10375,2026-01-10,Female,30,Lahore,Electronics,Laptop,2,38711,20,61937.6,48665.32,13272.28,3.4,Bank Transfer,Returned,January,1,26-35
+10376,2026-01-11,Male,58,Rawalpindi,Beauty,Haircare,3,17873,25,40214.25,27798.04,12416.21,4.8,EasyPaisa,Completed,January,1,56-65
+10377,2026-01-12,Female,63,Multan,Sports,Football,2,4244,10,7639.2,5644.73,1994.47,3.0,Card,Completed,January,1,56-65
+10378,2026-01-13,Female,32,Islamabad,Clothing,Shirt,5,25495,10,114727.5,75827.01,38900.49,4.7,EasyPaisa,Completed,January,1,26-35
+10379,2026-01-14,Male,59,Faisalabad,Clothing,Shirt,1,17477,15,14855.45,10418.97,4436.48,2.6,JazzCash,Completed,January,1,56-65
+10380,2026-01-15,Female,24,Islamabad,Home,Lamp,1,32902,10,29611.8,23823.23,5788.57,2.7,Cash,Completed,January,1,18-25
+10381,2026-01-16,Male,57,Islamabad,Clothing,Jacket,3,35042,10,94613.4,54150.86,40462.54,4.6,Cash,Returned,January,1,56-65
+10382,2026-01-17,Female,45,Karachi,Home,Bedsheet,4,11151,5,42373.8,26210.87,16162.93,4.1,Cash,Returned,January,1,36-45
+10383,2026-01-18,Male,49,Faisalabad,Electronics,Phone,3,34203,0,102609.0,78044.08,24564.92,4.4,Card,Cancelled,January,1,46-55
+10384,2026-01-19,Female,52,Karachi,Sports,Football,4,13895,15,47243.0,27243.1,19999.9,3.0,JazzCash,Completed,January,1,46-55
+10385,2026-01-20,Male,32,Faisalabad,Home,Cookware,2,30308,15,51523.6,29390.53,22133.07,3.8,Bank Transfer,Completed,January,1,26-35
+10386,2026-01-21,Female,65,Peshawar,Electronics,Headphones,2,37076,15,63029.2,40818.73,22210.47,4.3,Cash,Completed,January,1,56-65
+10387,2026-01-22,Female,53,Karachi,Clothing,Jacket,5,17215,5,81771.25,47009.09,34762.16,4.1,JazzCash,Completed,January,1,46-55
+10388,2026-01-23,Female,38,Karachi,Clothing,Jeans,4,44909,25,134727.0,95382.83,39344.17,3.7,EasyPaisa,Completed,January,1,36-45
+10389,2026-01-24,Male,23,Karachi,Electronics,Laptop,5,24806,10,111627.0,68214.63,43412.37,4.9,Card,Completed,January,1,18-25
+10390,2026-01-25,Male,18,Multan,Clothing,Shoes,1,19586,0,19586.0,15508.95,4077.05,4.2,JazzCash,Completed,January,1,18-25
+10391,2026-01-26,Female,21,Rawalpindi,Electronics,Tablet,4,14876,20,47603.2,36251.98,11351.22,4.8,JazzCash,Completed,January,1,18-25
+10392,2026-01-27,Male,28,Karachi,Home,Cookware,3,6389,25,14375.25,10622.17,3753.08,4.3,Bank Transfer,Completed,January,1,26-35
+10393,2026-01-28,Female,61,Lahore,Home,Chair,1,38322,10,34489.8,24714.52,9775.28,4.3,JazzCash,Cancelled,January,1,56-65
+10394,2026-01-29,Male,43,Lahore,Electronics,Phone,1,37136,5,35279.2,27628.4,7650.8,2.7,Bank Transfer,Completed,January,1,36-45
+10395,2026-01-30,Female,54,Faisalabad,Home,Chair,3,21084,10,56926.8,34738.26,22188.54,3.4,Card,Completed,January,1,46-55
+10396,2026-01-31,Male,40,Peshawar,Home,Bedsheet,1,49853,10,44867.7,35254.32,9613.38,4.6,Card,Completed,January,1,36-45
+10397,2026-02-01,Female,46,Rawalpindi,Home,Cookware,4,35110,5,133418.0,101819.67,31598.33,3.1,EasyPaisa,Cancelled,February,2,46-55
+10398,2026-02-02,Female,38,Multan,Beauty,Perfume,5,10558,15,44871.5,33743.52,11127.98,2.8,Bank Transfer,Completed,February,2,36-45
+10399,2026-02-03,Female,65,Faisalabad,Sports,Gym Bag,1,9601,15,8160.85,5725.15,2435.7,3.3,Bank Transfer,Returned,February,2,56-65
+10400,2026-02-04,Female,62,Lahore,Clothing,Jacket,4,12997,0,51988.0,32049.87,19938.13,3.1,Cash,Cancelled,February,2,56-65
+10401,2026-02-05,Male,62,Rawalpindi,Beauty,Makeup,2,5158,0,10316.0,6853.52,3462.48,4.8,Cash,Cancelled,February,2,56-65
+10402,2026-02-06,Female,44,Rawalpindi,Home,Lamp,4,11881,15,40395.4,30872.75,9522.65,4.7,EasyPaisa,Completed,February,2,36-45
+10403,2026-02-07,Male,56,Peshawar,Electronics,Laptop,5,40812,25,153045.0,85487.91,67557.09,3.7,Card,Completed,February,2,56-65
+10404,2026-02-08,Male,57,Rawalpindi,Home,Lamp,4,40986,20,131155.2,99829.27,31325.93,2.7,Cash,Completed,February,2,56-65
+10405,2026-02-09,Female,30,Karachi,Sports,Cricket Bat,3,47119,10,127221.3,78218.09,49003.21,4.3,JazzCash,Completed,February,2,26-35
+10406,2026-02-10,Male,40,Rawalpindi,Home,Lamp,5,17654,20,70616.0,41590.25,29025.75,4.1,Card,Completed,February,2,36-45
+10407,2026-02-11,Male,33,Peshawar,Electronics,Headphones,2,20039,10,36070.2,20965.42,15104.78,4.9,JazzCash,Completed,February,2,26-35
+10408,2026-02-12,Male,47,Faisalabad,Sports,Football,3,12277,15,31306.35,17448.83,13857.52,3.9,Bank Transfer,Completed,February,2,46-55
+10409,2026-02-13,Female,21,Peshawar,Home,Cookware,4,34896,0,139584.0,96503.96,43080.04,3.3,Card,Completed,February,2,18-25
+10410,2026-02-14,Male,57,Multan,Sports,Gym Bag,5,30873,25,115773.75,70498.13,45275.62,3.8,EasyPaisa,Completed,February,2,56-65
+10411,2026-02-15,Male,33,Peshawar,Clothing,Jeans,2,33654,0,67308.0,55000.5,12307.5,4.9,Bank Transfer,Completed,February,2,26-35
+10412,2026-02-16,Female,48,Lahore,Clothing,Shoes,3,6531,20,15674.4,11051.99,4622.41,4.2,Bank Transfer,Completed,February,2,46-55
+10413,2026-02-17,Female,59,Karachi,Home,Bedsheet,2,28497,0,56994.0,33468.53,23525.47,4.2,JazzCash,Completed,February,2,56-65
+10414,2026-02-18,Male,42,Lahore,Sports,Running Shoes,4,6939,15,23592.6,17363.35,6229.25,3.1,Bank Transfer,Completed,February,2,36-45
+10415,2026-02-19,Female,61,Faisalabad,Electronics,Tablet,2,23285,25,34927.5,27676.23,7251.27,4.4,Cash,Returned,February,2,56-65
+10416,2026-02-20,Male,29,Islamabad,Home,Cookware,1,13892,20,11113.6,8348.52,2765.08,4.4,Card,Completed,February,2,26-35
+10417,2026-02-21,Male,43,Faisalabad,Clothing,Shirt,3,29169,25,65630.25,37451.16,28179.09,3.3,Cash,Completed,February,2,36-45
+10418,2026-02-22,Male,54,Karachi,Clothing,Shirt,2,29439,10,52990.2,41962.34,11027.86,3.7,JazzCash,Completed,February,2,46-55
+10419,2026-02-23,Female,65,Rawalpindi,Home,Cookware,4,2782,0,11128.0,8505.81,2622.19,3.2,JazzCash,Completed,February,2,56-65
+10420,2026-02-24,Male,50,Peshawar,Sports,Football,4,35124,25,105372.0,62458.42,42913.58,3.1,Card,Completed,February,2,46-55
+10421,2026-02-25,Female,45,Islamabad,Clothing,Jeans,2,48938,5,92982.2,52440.3,40541.9,2.6,Bank Transfer,Completed,February,2,36-45
+10422,2026-02-26,Female,26,Karachi,Sports,Gym Bag,4,24864,0,99456.0,69666.33,29789.67,3.2,EasyPaisa,Completed,February,2,26-35
+10423,2026-02-27,Male,29,Lahore,Clothing,Jeans,5,2498,10,11241.0,6656.13,4584.87,3.9,JazzCash,Completed,February,2,26-35
+10424,2026-02-28,Female,22,Peshawar,Clothing,Shoes,5,32205,25,120768.75,93636.79,27131.96,2.5,Card,Completed,February,2,18-25
+10425,2026-03-01,Female,45,Faisalabad,Beauty,Perfume,5,38744,20,154976.0,100230.78,54745.22,3.2,EasyPaisa,Completed,March,3,36-45
+10426,2026-03-02,Female,52,Lahore,Clothing,Jeans,1,9928,10,8935.2,7116.72,1818.48,4.7,Bank Transfer,Completed,March,3,46-55
+10427,2026-03-03,Female,22,Karachi,Electronics,Laptop,2,37937,5,72080.3,50653.41,21426.89,4.0,JazzCash,Completed,March,3,18-25
+10428,2026-03-04,Female,51,Karachi,Home,Bedsheet,1,12836,25,9627.0,5769.67,3857.33,4.0,Card,Completed,March,3,46-55
+10429,2026-03-05,Male,63,Faisalabad,Home,Cookware,4,9842,15,33462.8,19665.81,13796.99,3.5,Card,Completed,March,3,56-65
+10430,2026-03-06,Female,51,Islamabad,Sports,Running Shoes,1,40332,0,40332.0,28460.18,11871.82,4.2,Card,Completed,March,3,46-55
+10431,2026-03-07,Male,30,Faisalabad,Clothing,Jeans,4,7946,20,25427.2,19215.55,6211.65,3.0,JazzCash,Returned,March,3,26-35
+10432,2026-03-08,Male,56,Rawalpindi,Electronics,Laptop,4,38892,15,132232.8,100630.02,31602.78,4.5,EasyPaisa,Completed,March,3,56-65
+10433,2026-03-09,Male,59,Lahore,Sports,Football,3,7961,25,17912.25,11185.39,6726.86,2.8,Card,Completed,March,3,56-65
+10434,2026-03-10,Male,62,Islamabad,Beauty,Skincare,5,35087,25,131576.25,79622.92,51953.33,4.1,Bank Transfer,Returned,March,3,56-65
+10435,2026-03-11,Male,65,Peshawar,Sports,Running Shoes,4,11016,10,39657.6,21991.1,17666.5,3.4,Card,Completed,March,3,56-65
+10436,2026-03-12,Male,31,Multan,Sports,Gym Bag,3,14249,25,32060.25,23512.47,8547.78,4.4,EasyPaisa,Completed,March,3,26-35
+10437,2026-03-13,Female,28,Rawalpindi,Clothing,Jeans,5,18014,20,72056.0,41120.44,30935.56,3.9,JazzCash,Cancelled,March,3,26-35
+10438,2026-03-14,Female,59,Islamabad,Beauty,Haircare,4,35926,15,122148.4,81058.35,41090.05,3.6,Card,Returned,March,3,56-65
+10439,2026-03-15,Female,55,Multan,Sports,Running Shoes,4,36768,20,117657.6,83825.65,33831.95,2.9,Card,Completed,March,3,46-55
+10440,2026-03-16,Male,21,Multan,Electronics,Laptop,1,25450,5,24177.5,19415.0,4762.5,4.1,Bank Transfer,Completed,March,3,18-25
+10441,2026-03-17,Female,50,Lahore,Electronics,Headphones,1,35388,5,33618.6,21320.46,12298.14,4.9,Bank Transfer,Returned,March,3,46-55
+10442,2026-03-18,Female,24,Karachi,Home,Chair,5,37288,0,186440.0,115115.23,71324.77,4.6,Card,Completed,March,3,18-25
+10443,2026-03-19,Female,58,Peshawar,Beauty,Perfume,4,10713,0,42852.0,31137.26,11714.74,2.7,Card,Returned,March,3,56-65
+10444,2026-03-20,Male,25,Faisalabad,Beauty,Skincare,2,36527,5,69401.3,49774.23,19627.07,3.4,Bank Transfer,Completed,March,3,18-25
+10445,2026-03-21,Female,54,Lahore,Home,Chair,1,28511,25,21383.25,13678.22,7705.03,4.8,EasyPaisa,Completed,March,3,46-55
+10446,2026-03-22,Male,27,Rawalpindi,Sports,Running Shoes,5,43349,20,173396.0,138818.67,34577.33,3.8,Cash,Cancelled,March,3,26-35
+10447,2026-03-23,Female,60,Multan,Beauty,Skincare,4,35091,5,133345.8,103758.08,29587.72,4.2,Cash,Returned,March,3,56-65
+10448,2026-03-24,Male,32,Rawalpindi,Electronics,Headphones,4,18358,0,73432.0,44828.42,28603.58,4.8,Card,Completed,March,3,26-35
+10449,2026-03-25,Male,55,Multan,Electronics,Laptop,2,19126,5,36339.4,22333.05,14006.35,4.7,Bank Transfer,Completed,March,3,46-55
+10450,2026-03-26,Male,32,Karachi,Clothing,Jacket,5,13967,25,52376.25,36051.68,16324.57,3.8,JazzCash,Completed,March,3,26-35
+10451,2026-03-27,Female,22,Karachi,Beauty,Perfume,4,40258,5,152980.4,116091.39,36889.01,3.6,JazzCash,Completed,March,3,18-25
+10452,2026-03-28,Female,46,Peshawar,Sports,Running Shoes,1,3634,20,2907.2,1633.53,1273.67,3.3,Cash,Completed,March,3,46-55
+10453,2026-03-29,Male,36,Faisalabad,Home,Bedsheet,2,17243,15,29313.1,21609.63,7703.47,4.3,EasyPaisa,Cancelled,March,3,36-45
+10454,2026-03-30,Female,27,Peshawar,Home,Bedsheet,5,15934,25,59752.5,43321.98,16430.52,3.2,Cash,Returned,March,3,26-35
+10455,2026-03-31,Male,29,Karachi,Sports,Cricket Bat,2,48275,0,96550.0,59136.84,37413.16,3.1,Card,Completed,March,3,26-35
+10456,2026-04-01,Male,21,Karachi,Clothing,Jacket,1,10733,20,8586.4,6302.12,2284.28,3.4,EasyPaisa,Completed,April,4,18-25
+10457,2026-04-02,Female,48,Rawalpindi,Home,Cookware,5,49646,5,235818.5,189562.57,46255.93,2.9,JazzCash,Completed,April,4,46-55
+10458,2026-04-03,Female,35,Karachi,Beauty,Perfume,2,1641,5,3117.9,1754.23,1363.67,4.2,Bank Transfer,Completed,April,4,26-35
+10459,2026-04-04,Female,33,Islamabad,Clothing,Jeans,3,18519,15,47223.45,30048.57,17174.88,4.0,Bank Transfer,Completed,April,4,26-35
+10460,2026-04-05,Male,57,Multan,Beauty,Makeup,1,20884,0,20884.0,13956.94,6927.06,3.7,Card,Completed,April,4,56-65
+10461,2026-04-06,Male,53,Lahore,Electronics,Phone,1,43403,0,43403.0,34409.91,8993.09,3.5,Cash,Completed,April,4,46-55
+10462,2026-04-07,Female,42,Karachi,Clothing,Shoes,1,46234,10,41610.6,33696.7,7913.9,4.8,Card,Completed,April,4,36-45
+10463,2026-04-08,Male,40,Peshawar,Home,Cookware,3,36629,0,109887.0,73614.52,36272.48,2.6,Bank Transfer,Completed,April,4,36-45
+10464,2026-04-09,Female,29,Faisalabad,Clothing,Jacket,3,23467,15,59840.85,45030.7,14810.15,4.4,JazzCash,Completed,April,4,26-35
+10465,2026-04-10,Male,51,Multan,Clothing,Jeans,4,41103,10,147970.8,102624.92,45345.88,4.8,Bank Transfer,Completed,April,4,46-55
+10466,2026-04-11,Female,53,Multan,Clothing,Jacket,2,11672,10,21009.6,14605.9,6403.7,3.6,EasyPaisa,Completed,April,4,46-55
+10467,2026-04-12,Female,54,Faisalabad,Clothing,Jeans,4,16890,5,64182.0,40119.33,24062.67,3.9,Bank Transfer,Completed,April,4,46-55
+10468,2026-04-13,Male,20,Faisalabad,Beauty,Makeup,2,3767,5,7157.3,4355.78,2801.52,4.9,Bank Transfer,Completed,April,4,18-25
+10469,2026-04-14,Female,26,Multan,Electronics,Laptop,3,39832,0,119496.0,75014.98,44481.02,3.0,EasyPaisa,Completed,April,4,26-35
+10470,2026-04-15,Female,35,Islamabad,Sports,Cricket Bat,3,26667,10,72000.9,50415.65,21585.25,3.8,Cash,Returned,April,4,26-35
+10471,2026-04-16,Male,60,Peshawar,Clothing,Jacket,4,21812,5,82885.6,46239.55,36646.05,3.7,Bank Transfer,Completed,April,4,56-65
+10472,2026-04-17,Female,52,Islamabad,Home,Bedsheet,5,28340,15,120445.0,95748.62,24696.38,3.1,Card,Completed,April,4,46-55
+10473,2026-04-18,Male,51,Karachi,Clothing,Jacket,4,19490,5,74062.0,43859.26,30202.74,4.5,Bank Transfer,Completed,April,4,46-55
+10474,2026-04-19,Female,58,Lahore,Home,Bedsheet,2,44679,25,67018.5,40842.68,26175.82,4.7,Card,Completed,April,4,56-65
+10475,2026-04-20,Male,31,Faisalabad,Beauty,Haircare,4,6406,25,19218.0,13259.16,5958.84,4.5,EasyPaisa,Completed,April,4,26-35
+10476,2026-04-21,Female,21,Peshawar,Home,Lamp,1,49296,5,46831.2,34736.15,12095.05,3.0,Bank Transfer,Cancelled,April,4,18-25
+10477,2026-04-22,Female,46,Faisalabad,Sports,Cricket Bat,2,40879,10,73582.2,42372.08,31210.12,2.7,EasyPaisa,Completed,April,4,46-55
+10478,2026-04-23,Female,58,Islamabad,Electronics,Headphones,2,17797,10,32034.6,20366.88,11667.72,4.0,EasyPaisa,Cancelled,April,4,56-65
+10479,2026-04-24,Female,62,Rawalpindi,Home,Lamp,5,2511,20,10044.0,8151.13,1892.87,2.6,Cash,Completed,April,4,56-65
+10480,2026-04-25,Male,32,Karachi,Home,Cookware,3,44514,25,100156.5,62180.42,37976.08,4.2,Bank Transfer,Completed,April,4,26-35
+10481,2026-04-26,Male,45,Lahore,Electronics,Tablet,2,47058,15,79998.6,50760.99,29237.61,3.8,Card,Completed,April,4,36-45
+10482,2026-04-27,Male,59,Karachi,Sports,Cricket Bat,3,12238,10,33042.6,25636.25,7406.35,4.2,Card,Completed,April,4,56-65
+10483,2026-04-28,Male,33,Rawalpindi,Clothing,Jacket,4,29297,0,117188.0,66042.22,51145.78,4.0,Bank Transfer,Completed,April,4,26-35
+10484,2026-04-29,Male,29,Lahore,Home,Cookware,1,47998,25,35998.5,24315.03,11683.47,3.6,Cash,Completed,April,4,26-35
+10485,2026-04-30,Male,22,Rawalpindi,Electronics,Tablet,5,11620,15,49385.0,32223.54,17161.46,3.0,Cash,Completed,April,4,18-25
+10486,2026-05-01,Male,51,Karachi,Beauty,Makeup,3,9267,15,23630.85,15016.9,8613.95,3.3,Cash,Completed,May,5,46-55
+10487,2026-05-02,Female,59,Islamabad,Electronics,Headphones,2,23352,10,42033.6,26360.91,15672.69,3.8,Card,Completed,May,5,56-65
+10488,2026-05-03,Female,18,Multan,Beauty,Haircare,3,14203,15,36217.65,20813.23,15404.42,4.1,EasyPaisa,Returned,May,5,18-25
+10489,2026-05-04,Female,56,Karachi,Sports,Football,2,1429,10,2572.2,1633.35,938.85,4.4,Cash,Returned,May,5,56-65
+10490,2026-05-05,Female,49,Karachi,Clothing,Shoes,3,12451,5,35485.35,19929.43,15555.92,4.4,Card,Completed,May,5,46-55
+10491,2026-05-06,Male,43,Karachi,Electronics,Laptop,2,26539,25,39808.5,30288.7,9519.8,4.9,Card,Returned,May,5,36-45
+10492,2026-05-07,Male,34,Peshawar,Home,Chair,4,49113,20,157161.6,103337.13,53824.47,3.2,EasyPaisa,Returned,May,5,26-35
+10493,2026-05-08,Male,65,Rawalpindi,Sports,Football,2,30004,5,57007.6,38186.77,18820.83,2.7,Bank Transfer,Completed,May,5,56-65
+10494,2026-05-09,Female,44,Rawalpindi,Electronics,Laptop,2,17938,25,26907.0,21290.72,5616.28,3.4,Bank Transfer,Completed,May,5,36-45
+10495,2026-05-10,Male,41,Faisalabad,Home,Chair,1,49015,10,44113.5,32100.28,12013.22,4.4,Cash,Completed,May,5,36-45
+10496,2026-05-11,Female,52,Rawalpindi,Electronics,Laptop,2,6244,25,9366.0,5171.68,4194.32,3.6,Cash,Completed,May,5,46-55
+10497,2026-05-12,Male,63,Faisalabad,Beauty,Haircare,1,18784,10,16905.6,13603.21,3302.39,4.5,EasyPaisa,Completed,May,5,56-65
+10498,2026-05-13,Male,59,Peshawar,Electronics,Laptop,5,42917,5,203855.75,125173.34,78682.41,3.9,Cash,Cancelled,May,5,56-65
+10499,2026-05-14,Male,56,Islamabad,Electronics,Phone,1,40248,0,40248.0,23305.84,16942.16,4.8,EasyPaisa,Completed,May,5,56-65
+10500,2026-05-15,Male,43,Faisalabad,Electronics,Tablet,4,7569,0,30276.0,22930.88,7345.12,4.9,Card,Completed,May,5,36-45
+10501,2026-05-16,Female,55,Karachi,Sports,Cricket Bat,1,42859,25,32144.25,22022.95,10121.3,2.7,Cash,Cancelled,May,5,46-55
+10502,2026-05-17,Female,40,Islamabad,Electronics,Phone,5,20299,0,101495.0,67709.15,33785.85,3.6,Card,Returned,May,5,36-45
+10503,2026-05-18,Male,39,Multan,Home,Cookware,4,33710,10,121356.0,74921.05,46434.95,4.0,JazzCash,Completed,May,5,36-45
+10504,2026-05-19,Female,21,Peshawar,Beauty,Makeup,3,28726,15,73251.3,51116.02,22135.28,3.1,EasyPaisa,Completed,May,5,18-25
+10505,2026-05-20,Male,26,Rawalpindi,Beauty,Skincare,3,5152,10,13910.4,8681.26,5229.14,3.5,JazzCash,Completed,May,5,26-35
+10506,2026-05-21,Male,21,Faisalabad,Electronics,Phone,1,24823,15,21099.55,16740.96,4358.59,4.2,Cash,Completed,May,5,18-25
+10507,2026-05-22,Male,24,Karachi,Sports,Cricket Bat,1,42638,5,40506.1,24631.97,15874.13,3.1,Card,Completed,May,5,18-25
+10508,2026-05-23,Male,40,Lahore,Sports,Running Shoes,5,8097,20,32388.0,25546.87,6841.13,4.0,Cash,Completed,May,5,36-45
+10509,2026-05-24,Female,19,Multan,Home,Cookware,5,47593,15,202270.25,141799.43,60470.82,4.2,JazzCash,Returned,May,5,18-25
+10510,2026-05-25,Male,41,Lahore,Electronics,Laptop,2,37726,0,75452.0,58376.59,17075.41,2.7,Cash,Completed,May,5,36-45
+10511,2026-05-26,Male,57,Islamabad,Beauty,Perfume,5,7091,10,31909.5,23691.8,8217.7,3.7,Bank Transfer,Completed,May,5,56-65
+10512,2026-05-27,Female,48,Rawalpindi,Sports,Cricket Bat,2,49614,5,94266.6,69578.9,24687.7,3.2,JazzCash,Completed,May,5,46-55
+10513,2026-05-28,Male,64,Lahore,Electronics,Tablet,4,26333,0,105332.0,67156.88,38175.12,4.3,Cash,Completed,May,5,56-65
+10514,2026-05-29,Female,48,Islamabad,Sports,Gym Bag,1,12326,5,11709.7,7179.83,4529.87,3.0,Card,Completed,May,5,46-55
+10515,2026-05-30,Male,64,Peshawar,Sports,Running Shoes,4,26917,20,86134.4,52278.35,33856.05,4.7,Cash,Returned,May,5,56-65
+10516,2026-05-31,Male,57,Islamabad,Beauty,Makeup,5,19193,10,86368.5,67491.95,18876.55,3.6,Card,Completed,May,5,56-65
+10517,2026-06-01,Male,65,Multan,Clothing,Jacket,4,14638,25,43914.0,33880.32,10033.68,3.0,Bank Transfer,Completed,June,6,56-65
+10518,2026-06-02,Male,60,Islamabad,Home,Chair,4,2669,10,9608.4,6427.59,3180.81,3.6,Cash,Completed,June,6,56-65
+10519,2026-06-03,Male,51,Multan,Home,Bedsheet,4,19056,20,60979.2,35718.52,25260.68,3.5,Bank Transfer,Completed,June,6,46-55
+10520,2026-06-04,Male,41,Islamabad,Beauty,Perfume,5,22552,10,101484.0,66290.17,35193.83,3.6,JazzCash,Completed,June,6,36-45
+10521,2026-06-05,Female,43,Karachi,Sports,Cricket Bat,4,6813,25,20439.0,14659.32,5779.68,4.0,Card,Completed,June,6,36-45
+10522,2026-06-06,Male,33,Islamabad,Electronics,Laptop,2,8815,15,14985.5,10080.58,4904.92,3.8,JazzCash,Completed,June,6,26-35
+10523,2026-06-07,Female,64,Faisalabad,Sports,Football,5,8536,5,40546.0,30841.36,9704.64,2.9,Card,Completed,June,6,56-65
+10524,2026-06-08,Female,30,Islamabad,Beauty,Skincare,4,32278,25,96834.0,79341.73,17492.27,2.7,Bank Transfer,Completed,June,6,26-35
+10525,2026-06-09,Male,32,Karachi,Home,Lamp,5,28234,0,141170.0,84928.67,56241.33,4.3,EasyPaisa,Completed,June,6,26-35
+10526,2026-06-10,Female,44,Karachi,Sports,Gym Bag,3,23673,20,56815.2,38299.45,18515.75,3.9,Cash,Completed,June,6,36-45
+10527,2026-06-11,Male,21,Peshawar,Home,Lamp,2,30903,15,52535.1,35007.59,17527.51,3.4,Bank Transfer,Completed,June,6,18-25
+10528,2026-06-12,Female,33,Multan,Electronics,Tablet,4,1285,0,5140.0,3249.57,1890.43,4.5,Card,Completed,June,6,26-35
+10529,2026-06-13,Male,47,Rawalpindi,Home,Bedsheet,3,6639,0,19917.0,12019.63,7897.37,3.5,Card,Completed,June,6,46-55
+10530,2026-06-14,Female,61,Lahore,Home,Bedsheet,3,6844,20,16425.6,9325.42,7100.18,4.5,Card,Completed,June,6,56-65
+10531,2026-06-15,Female,47,Lahore,Clothing,Jacket,5,19300,15,82025.0,64760.56,17264.44,3.3,Card,Completed,June,6,46-55
+10532,2026-06-16,Male,53,Islamabad,Clothing,Shirt,3,25872,0,77616.0,51487.28,26128.72,2.7,Cash,Completed,June,6,46-55
+10533,2026-06-17,Female,20,Peshawar,Clothing,Jeans,2,21038,0,42076.0,28786.79,13289.21,4.8,JazzCash,Cancelled,June,6,18-25
+10534,2026-06-18,Male,39,Islamabad,Home,Chair,2,15473,15,26304.1,20979.48,5324.62,3.5,EasyPaisa,Completed,June,6,36-45
+10535,2026-06-19,Male,39,Lahore,Beauty,Perfume,1,6119,10,5507.1,4183.18,1323.92,4.5,Cash,Completed,June,6,36-45
+10536,2026-06-20,Male,29,Multan,Home,Cookware,2,35204,0,70408.0,41205.25,29202.75,3.2,Card,Completed,June,6,26-35
+10537,2026-06-21,Male,38,Multan,Beauty,Makeup,3,37075,5,105663.75,74246.05,31417.7,4.1,Cash,Returned,June,6,36-45
+10538,2026-06-22,Male,21,Multan,Beauty,Haircare,2,40419,15,68712.3,45996.57,22715.73,4.7,Bank Transfer,Completed,June,6,18-25
+10539,2026-06-23,Female,48,Karachi,Clothing,Shirt,5,42761,0,213805.0,163613.63,50191.37,2.6,Card,Completed,June,6,46-55
+10540,2026-06-24,Female,61,Rawalpindi,Sports,Football,1,45623,20,36498.4,27211.12,9287.28,4.6,EasyPaisa,Returned,June,6,56-65
+10541,2026-06-25,Female,48,Peshawar,Electronics,Phone,3,28216,25,63486.0,46751.7,16734.3,3.9,Card,Returned,June,6,46-55
+10542,2026-06-26,Male,40,Karachi,Clothing,Shirt,1,3736,5,3549.2,2278.4,1270.8,4.0,EasyPaisa,Completed,June,6,36-45
+10543,2026-06-27,Female,37,Rawalpindi,Clothing,Jacket,3,16348,25,36783.0,28225.07,8557.93,3.8,EasyPaisa,Completed,June,6,36-45
+10544,2026-06-28,Female,32,Peshawar,Sports,Football,5,2852,25,10695.0,6033.54,4661.46,4.7,JazzCash,Returned,June,6,26-35
+10545,2026-06-29,Female,40,Peshawar,Electronics,Phone,1,2432,0,2432.0,1442.42,989.58,2.6,JazzCash,Completed,June,6,36-45
+10546,2026-06-30,Female,45,Lahore,Home,Bedsheet,4,11413,5,43369.4,27783.23,15586.17,3.2,Cash,Completed,June,6,36-45
+10547,2026-07-01,Female,33,Karachi,Home,Chair,3,9056,5,25809.6,14730.52,11079.08,4.7,Cash,Completed,July,7,26-35
+10548,2026-07-02,Male,54,Peshawar,Clothing,Jeans,4,21800,10,78480.0,48143.43,30336.57,4.4,EasyPaisa,Completed,July,7,46-55
+10549,2026-07-03,Male,38,Faisalabad,Electronics,Tablet,1,5998,25,4498.5,3482.47,1016.03,2.5,Card,Completed,July,7,36-45
+10550,2026-07-04,Female,32,Multan,Clothing,Jeans,4,11082,5,42111.6,33943.13,8168.47,3.8,Bank Transfer,Completed,July,7,26-35
+10551,2026-07-05,Male,34,Peshawar,Beauty,Skincare,4,47133,10,169678.8,107278.17,62400.63,3.8,Bank Transfer,Cancelled,July,7,26-35
+10552,2026-07-06,Male,54,Rawalpindi,Clothing,Shirt,1,10069,15,8558.65,5318.51,3240.14,3.5,Card,Completed,July,7,46-55
+10553,2026-07-07,Female,30,Lahore,Clothing,Shirt,5,5357,10,24106.5,15080.33,9026.17,3.2,Card,Completed,July,7,26-35
+10554,2026-07-08,Female,36,Islamabad,Home,Bedsheet,4,840,20,2688.0,1679.96,1008.04,4.2,JazzCash,Completed,July,7,36-45
+10555,2026-07-09,Male,47,Multan,Home,Lamp,4,44449,0,177796.0,99512.63,78283.37,3.0,Bank Transfer,Cancelled,July,7,46-55
+10556,2026-07-10,Female,62,Lahore,Home,Lamp,5,17266,15,73380.5,58724.02,14656.48,4.5,EasyPaisa,Completed,July,7,56-65
+10557,2026-07-11,Male,35,Islamabad,Beauty,Skincare,4,26632,15,90548.8,55026.37,35522.43,4.5,Cash,Completed,July,7,26-35
+10558,2026-07-12,Male,31,Karachi,Home,Cookware,4,8991,20,28771.2,19086.85,9684.35,3.5,JazzCash,Completed,July,7,26-35
+10559,2026-07-13,Female,53,Karachi,Electronics,Laptop,4,638,10,2296.8,1269.25,1027.55,3.2,Bank Transfer,Completed,July,7,46-55
+10560,2026-07-14,Male,53,Peshawar,Sports,Running Shoes,2,858,0,1716.0,1341.31,374.69,3.2,Card,Returned,July,7,46-55
+10561,2026-07-15,Male,37,Faisalabad,Electronics,Laptop,5,10214,10,45963.0,34353.32,11609.68,3.7,Bank Transfer,Completed,July,7,36-45
+10562,2026-07-16,Male,36,Karachi,Electronics,Laptop,4,20340,5,77292.0,62268.3,15023.7,4.3,EasyPaisa,Completed,July,7,36-45
+10563,2026-07-17,Female,62,Peshawar,Home,Bedsheet,5,34895,10,157027.5,119503.61,37523.89,3.4,JazzCash,Completed,July,7,56-65
+10564,2026-07-18,Female,61,Multan,Sports,Gym Bag,3,31154,15,79442.7,50422.34,29020.36,4.0,Card,Completed,July,7,56-65
+10565,2026-07-19,Female,24,Lahore,Sports,Gym Bag,3,26379,0,79137.0,48821.66,30315.34,3.5,EasyPaisa,Completed,July,7,18-25
+10566,2026-07-20,Female,61,Karachi,Sports,Running Shoes,4,16496,10,59385.6,43849.34,15536.26,3.3,Cash,Completed,July,7,56-65
+10567,2026-07-21,Male,21,Lahore,Beauty,Skincare,5,38272,0,191360.0,124060.69,67299.31,2.6,JazzCash,Completed,July,7,18-25
+10568,2026-07-22,Female,51,Lahore,Home,Lamp,5,27262,0,136310.0,95809.31,40500.69,2.5,EasyPaisa,Completed,July,7,46-55
+10569,2026-07-23,Female,19,Faisalabad,Sports,Football,5,13783,5,65469.25,36118.7,29350.55,3.1,EasyPaisa,Completed,July,7,18-25
+10570,2026-07-24,Female,22,Karachi,Beauty,Perfume,2,39920,5,75848.0,42983.75,32864.25,3.5,Card,Completed,July,7,18-25
+10571,2026-07-25,Female,27,Lahore,Clothing,Jacket,3,20054,15,51137.7,35517.66,15620.04,4.6,Cash,Completed,July,7,26-35
+10572,2026-07-26,Male,49,Faisalabad,Clothing,Shoes,5,20719,20,82876.0,58248.51,24627.49,4.5,EasyPaisa,Completed,July,7,46-55
+10573,2026-07-27,Male,59,Faisalabad,Beauty,Skincare,5,35419,0,177095.0,133333.46,43761.54,3.2,JazzCash,Completed,July,7,56-65
+10574,2026-07-28,Male,58,Karachi,Beauty,Makeup,2,9929,20,15886.4,9303.56,6582.84,3.1,EasyPaisa,Completed,July,7,56-65
+10575,2026-07-29,Female,30,Faisalabad,Home,Bedsheet,2,47340,15,80478.0,55413.89,25064.11,3.1,Bank Transfer,Cancelled,July,7,26-35
+10576,2026-07-30,Female,56,Karachi,Home,Cookware,5,45195,0,225975.0,136150.13,89824.87,3.3,JazzCash,Completed,July,7,56-65
+10577,2026-07-31,Male,22,Karachi,Clothing,Jeans,1,40173,0,40173.0,23106.02,17066.98,3.7,JazzCash,Completed,July,7,18-25
+10578,2026-08-01,Female,27,Islamabad,Sports,Gym Bag,5,19718,25,73942.5,48863.71,25078.79,3.6,EasyPaisa,Returned,August,8,26-35
+10579,2026-08-02,Female,27,Lahore,Clothing,Jacket,5,12952,20,51808.0,30779.18,21028.82,3.0,Card,Cancelled,August,8,26-35
+10580,2026-08-03,Male,55,Rawalpindi,Sports,Cricket Bat,2,49480,10,89064.0,54318.45,34745.55,2.8,JazzCash,Returned,August,8,46-55
+10581,2026-08-04,Male,44,Karachi,Sports,Football,2,19451,5,36956.9,23494.97,13461.93,2.5,Bank Transfer,Completed,August,8,36-45
+10582,2026-08-05,Female,38,Lahore,Home,Chair,5,1807,10,8131.5,5041.81,3089.69,2.9,Card,Completed,August,8,36-45
+10583,2026-08-06,Female,25,Multan,Electronics,Laptop,5,15352,20,61408.0,35226.68,26181.32,4.3,Card,Completed,August,8,18-25
+10584,2026-08-07,Female,18,Faisalabad,Electronics,Headphones,5,25732,5,122227.0,70192.2,52034.8,3.1,Card,Completed,August,8,18-25
+10585,2026-08-08,Male,45,Peshawar,Beauty,Haircare,2,35928,10,64670.4,38943.05,25727.35,3.7,JazzCash,Completed,August,8,36-45
+10586,2026-08-09,Male,56,Karachi,Home,Bedsheet,5,43671,25,163766.25,92307.01,71459.24,4.0,Card,Returned,August,8,56-65
+10587,2026-08-10,Male,31,Faisalabad,Sports,Running Shoes,5,26985,5,128178.75,92178.9,35999.85,4.7,EasyPaisa,Completed,August,8,26-35
+10588,2026-08-11,Male,38,Faisalabad,Electronics,Tablet,4,10738,0,42952.0,26955.74,15996.26,4.7,Card,Completed,August,8,36-45
+10589,2026-08-12,Female,47,Faisalabad,Sports,Gym Bag,1,39475,10,35527.5,22223.57,13303.93,4.4,Bank Transfer,Cancelled,August,8,46-55
+10590,2026-08-13,Male,38,Faisalabad,Electronics,Laptop,3,1640,5,4674.0,2989.68,1684.32,2.6,Cash,Completed,August,8,36-45
+10591,2026-08-14,Male,26,Faisalabad,Electronics,Headphones,1,25342,25,19006.5,13854.88,5151.62,3.9,Bank Transfer,Completed,August,8,26-35
+10592,2026-08-15,Female,34,Karachi,Electronics,Phone,4,26921,5,102299.8,80312.62,21987.18,4.5,JazzCash,Completed,August,8,26-35
+10593,2026-08-16,Female,22,Multan,Home,Lamp,3,2208,5,6292.8,4750.77,1542.03,2.5,Card,Completed,August,8,18-25
+10594,2026-08-17,Female,48,Rawalpindi,Clothing,Jacket,5,4130,25,15487.5,11560.38,3927.12,3.9,Card,Completed,August,8,46-55
+10595,2026-08-18,Male,57,Islamabad,Sports,Football,4,20095,10,72342.0,49249.39,23092.61,4.6,EasyPaisa,Cancelled,August,8,56-65
+10596,2026-08-19,Female,55,Faisalabad,Home,Chair,5,10985,15,46686.25,34423.06,12263.19,3.7,Card,Cancelled,August,8,46-55
+10597,2026-08-20,Female,60,Faisalabad,Home,Chair,2,28808,10,51854.4,36258.97,15595.43,2.5,Bank Transfer,Returned,August,8,56-65
+10598,2026-08-21,Male,36,Islamabad,Home,Cookware,4,45289,20,144924.8,88170.46,56754.34,2.5,JazzCash,Completed,August,8,36-45
+10599,2026-08-22,Male,53,Multan,Home,Chair,2,26586,25,39879.0,24179.39,15699.61,3.5,Cash,Returned,August,8,46-55
+10600,2026-08-23,Female,50,Multan,Home,Lamp,4,17359,10,62492.4,39371.83,23120.57,2.9,Card,Completed,August,8,46-55
+10601,2026-08-24,Male,30,Karachi,Beauty,Skincare,4,8184,5,31099.2,24752.37,6346.83,4.2,Cash,Completed,August,8,26-35
+10602,2026-08-25,Female,31,Lahore,Sports,Football,2,26052,25,39078.0,27268.71,11809.29,4.3,Card,Completed,August,8,26-35
+10603,2026-08-26,Female,50,Peshawar,Home,Lamp,3,1707,0,5121.0,3831.3,1289.7,2.9,JazzCash,Completed,August,8,46-55
+10604,2026-08-27,Male,46,Peshawar,Sports,Cricket Bat,1,46599,10,41939.1,26990.78,14948.32,4.7,Bank Transfer,Completed,August,8,46-55
+10605,2026-08-28,Female,60,Lahore,Beauty,Makeup,5,2460,25,9225.0,6089.27,3135.73,3.6,JazzCash,Completed,August,8,56-65
+10606,2026-08-29,Male,53,Karachi,Beauty,Haircare,4,1057,10,3805.2,2221.87,1583.33,2.9,Cash,Completed,August,8,46-55
+10607,2026-08-30,Male,61,Peshawar,Sports,Cricket Bat,5,30189,25,113208.75,67500.68,45708.07,4.4,Card,Completed,August,8,56-65
+10608,2026-08-31,Male,27,Multan,Electronics,Laptop,2,49151,5,93386.9,72224.15,21162.75,4.5,Cash,Completed,August,8,26-35
+10609,2026-09-01,Female,48,Islamabad,Clothing,Shirt,5,14393,0,71965.0,50944.49,21020.51,4.1,Bank Transfer,Completed,September,9,46-55
+10610,2026-09-02,Male,23,Lahore,Electronics,Phone,2,32772,0,65544.0,42022.47,23521.53,4.6,JazzCash,Completed,September,9,18-25
+10611,2026-09-03,Male,18,Multan,Electronics,Headphones,5,1382,20,5528.0,4238.7,1289.3,4.3,Cash,Completed,September,9,18-25
+10612,2026-09-04,Female,24,Rawalpindi,Electronics,Headphones,1,38029,25,28521.75,17585.38,10936.37,4.7,Cash,Completed,September,9,18-25
+10613,2026-09-05,Female,44,Karachi,Home,Lamp,1,39135,10,35221.5,28653.71,6567.79,3.6,Bank Transfer,Completed,September,9,36-45
+10614,2026-09-06,Female,38,Lahore,Beauty,Perfume,1,30035,0,30035.0,19315.53,10719.47,4.4,Card,Completed,September,9,36-45
+10615,2026-09-07,Female,45,Peshawar,Electronics,Headphones,1,13369,0,13369.0,8570.52,4798.48,5.0,Cash,Completed,September,9,36-45
+10616,2026-09-08,Male,33,Karachi,Beauty,Haircare,1,7666,15,6516.1,4132.62,2383.48,4.3,Bank Transfer,Cancelled,September,9,26-35
+10617,2026-09-09,Male,63,Islamabad,Sports,Cricket Bat,1,13482,15,11459.7,6680.66,4779.04,2.8,Card,Completed,September,9,56-65
+10618,2026-09-10,Male,40,Karachi,Clothing,Shirt,2,41197,0,82394.0,47789.1,34604.9,3.8,Card,Completed,September,9,36-45
+10619,2026-09-11,Female,37,Karachi,Sports,Football,4,38615,25,115845.0,83986.28,31858.72,4.0,JazzCash,Completed,September,9,36-45
+10620,2026-09-12,Female,55,Islamabad,Sports,Running Shoes,5,7769,20,31076.0,24434.5,6641.5,2.9,Bank Transfer,Completed,September,9,46-55
+10621,2026-09-13,Male,42,Faisalabad,Home,Chair,1,28564,0,28564.0,21806.92,6757.08,4.9,Card,Completed,September,9,36-45
+10622,2026-09-14,Female,45,Islamabad,Clothing,Jacket,2,14027,5,26651.3,15673.6,10977.7,2.9,JazzCash,Completed,September,9,36-45
+10623,2026-09-15,Female,22,Multan,Sports,Cricket Bat,2,2954,10,5317.2,3707.72,1609.48,2.9,EasyPaisa,Completed,September,9,18-25
+10624,2026-09-16,Male,38,Karachi,Sports,Cricket Bat,2,21378,20,34204.8,19787.81,14416.99,4.8,Bank Transfer,Cancelled,September,9,36-45
+10625,2026-09-17,Male,35,Islamabad,Clothing,Jeans,4,13491,5,51265.8,28823.15,22442.65,3.7,EasyPaisa,Completed,September,9,26-35
+10626,2026-09-18,Female,64,Faisalabad,Clothing,Shirt,5,3308,20,13232.0,9622.63,3609.37,2.7,Card,Completed,September,9,56-65
+10627,2026-09-19,Female,23,Multan,Sports,Gym Bag,4,39910,5,151658.0,105325.14,46332.86,4.0,Bank Transfer,Completed,September,9,18-25
+10628,2026-09-20,Female,46,Lahore,Clothing,Jacket,3,37093,10,100151.1,57301.09,42850.01,4.0,JazzCash,Completed,September,9,46-55
+10629,2026-09-21,Male,36,Islamabad,Sports,Gym Bag,2,36804,10,66247.2,37060.91,29186.29,2.7,Card,Returned,September,9,36-45
+10630,2026-09-22,Male,50,Islamabad,Sports,Running Shoes,3,30886,15,78759.3,64364.8,14394.5,4.9,Bank Transfer,Completed,September,9,46-55
+10631,2026-09-23,Male,18,Karachi,Home,Chair,1,48577,25,36432.75,20333.33,16099.42,3.9,Bank Transfer,Completed,September,9,18-25
+10632,2026-09-24,Male,62,Multan,Electronics,Laptop,1,4302,5,4086.9,2738.32,1348.58,3.9,EasyPaisa,Completed,September,9,56-65
+10633,2026-09-25,Male,20,Lahore,Sports,Gym Bag,4,29253,15,99460.2,68254.28,31205.92,3.8,Card,Completed,September,9,18-25
+10634,2026-09-26,Female,59,Rawalpindi,Beauty,Perfume,5,21583,5,102519.25,59631.93,42887.32,4.0,JazzCash,Returned,September,9,56-65
+10635,2026-09-27,Female,38,Rawalpindi,Electronics,Headphones,3,18854,15,48077.7,28637.32,19440.38,3.2,JazzCash,Completed,September,9,36-45
+10636,2026-09-28,Female,52,Peshawar,Electronics,Laptop,5,22690,10,102105.0,65856.43,36248.57,3.2,Card,Cancelled,September,9,46-55
+10637,2026-09-29,Male,58,Islamabad,Electronics,Laptop,4,6642,20,21254.4,16060.94,5193.46,3.8,Card,Cancelled,September,9,56-65
+10638,2026-09-30,Male,57,Islamabad,Home,Bedsheet,1,28898,15,24563.3,16872.83,7690.47,4.5,Cash,Completed,September,9,56-65
+10639,2026-10-01,Male,20,Lahore,Sports,Cricket Bat,5,42362,5,201219.5,145327.46,55892.04,2.6,EasyPaisa,Completed,October,10,18-25
+10640,2026-10-02,Female,42,Faisalabad,Home,Lamp,5,33632,5,159752.0,130357.17,29394.83,4.0,Card,Completed,October,10,36-45
+10641,2026-10-03,Male,62,Rawalpindi,Sports,Cricket Bat,1,20003,25,15002.25,11362.13,3640.12,4.5,Card,Cancelled,October,10,56-65
+10642,2026-10-04,Male,55,Peshawar,Home,Cookware,3,48956,10,132181.2,88201.55,43979.65,2.9,Cash,Completed,October,10,46-55
+10643,2026-10-05,Female,62,Lahore,Home,Lamp,1,35131,5,33374.45,22378.88,10995.57,2.5,Cash,Completed,October,10,56-65
+10644,2026-10-06,Male,37,Islamabad,Beauty,Haircare,5,16999,0,84995.0,60947.23,24047.77,3.3,Bank Transfer,Completed,October,10,36-45
+10645,2026-10-07,Female,61,Rawalpindi,Home,Cookware,3,40352,20,96844.8,70662.67,26182.13,4.0,JazzCash,Completed,October,10,56-65
+10646,2026-10-08,Male,62,Multan,Clothing,Jacket,3,8516,15,21715.8,14879.49,6836.31,2.8,EasyPaisa,Completed,October,10,56-65
+10647,2026-10-09,Male,51,Peshawar,Beauty,Haircare,1,2884,25,2163.0,1566.26,596.74,3.6,Bank Transfer,Completed,October,10,46-55
+10648,2026-10-10,Female,38,Karachi,Home,Lamp,5,15572,20,62288.0,34654.16,27633.84,3.9,Card,Cancelled,October,10,36-45
+10649,2026-10-11,Female,65,Rawalpindi,Electronics,Laptop,4,37203,10,133930.8,89197.67,44733.13,4.0,Cash,Completed,October,10,56-65
+10650,2026-10-12,Female,40,Peshawar,Clothing,Jacket,5,46395,25,173981.25,108792.79,65188.46,3.2,JazzCash,Completed,October,10,36-45
+10651,2026-10-13,Female,23,Lahore,Clothing,Shirt,2,14982,15,25469.4,14896.47,10572.93,3.5,Bank Transfer,Completed,October,10,18-25
+10652,2026-10-14,Female,30,Karachi,Clothing,Jeans,4,41010,15,139434.0,80436.35,58997.65,4.4,JazzCash,Completed,October,10,26-35
+10653,2026-10-15,Female,40,Peshawar,Beauty,Haircare,3,49433,0,148299.0,105716.7,42582.3,4.9,Cash,Completed,October,10,36-45
+10654,2026-10-16,Male,26,Peshawar,Home,Chair,4,22326,10,80373.6,55568.07,24805.53,4.7,Bank Transfer,Completed,October,10,26-35
+10655,2026-10-17,Male,34,Islamabad,Home,Lamp,3,2990,25,6727.5,4160.74,2566.76,3.9,Bank Transfer,Completed,October,10,26-35
+10656,2026-10-18,Female,19,Faisalabad,Electronics,Headphones,3,46592,25,104832.0,70987.67,33844.33,3.5,JazzCash,Cancelled,October,10,18-25
+10657,2026-10-19,Male,36,Rawalpindi,Electronics,Tablet,4,26018,5,98868.4,67517.5,31350.9,3.3,Cash,Completed,October,10,36-45
+10658,2026-10-20,Female,36,Islamabad,Clothing,Shirt,3,24545,0,73635.0,44376.31,29258.69,2.8,Card,Completed,October,10,36-45
+10659,2026-10-21,Male,24,Multan,Electronics,Laptop,3,27410,0,82230.0,59704.34,22525.66,2.8,Bank Transfer,Completed,October,10,18-25
+10660,2026-10-22,Female,59,Karachi,Beauty,Makeup,2,25066,25,37599.0,28607.13,8991.87,4.2,Card,Completed,October,10,56-65
+10661,2026-10-23,Male,59,Faisalabad,Home,Cookware,5,34405,25,129018.75,98530.99,30487.76,3.1,Cash,Cancelled,October,10,56-65
+10662,2026-10-24,Male,37,Peshawar,Clothing,Jeans,5,27603,20,110412.0,78686.97,31725.03,3.1,Bank Transfer,Completed,October,10,36-45
+10663,2026-10-25,Male,26,Islamabad,Electronics,Tablet,2,36688,20,58700.8,40394.51,18306.29,5.0,Bank Transfer,Completed,October,10,26-35
+10664,2026-10-26,Male,34,Faisalabad,Beauty,Haircare,4,6345,20,20304.0,11501.65,8802.35,3.0,Card,Completed,October,10,26-35
+10665,2026-10-27,Male,44,Multan,Beauty,Makeup,1,21662,0,21662.0,13597.55,8064.45,2.9,EasyPaisa,Completed,October,10,36-45
+10666,2026-10-28,Female,64,Rawalpindi,Electronics,Phone,1,37174,5,35315.3,20312.77,15002.53,2.7,Card,Completed,October,10,56-65
+10667,2026-10-29,Female,19,Multan,Home,Bedsheet,1,19837,15,16861.45,13661.69,3199.76,3.9,Card,Completed,October,10,18-25
+10668,2026-10-30,Female,53,Karachi,Electronics,Headphones,2,22813,20,36500.8,21406.68,15094.12,4.1,EasyPaisa,Completed,October,10,46-55
+10669,2026-10-31,Male,36,Lahore,Clothing,Shirt,2,27443,5,52141.7,30814.67,21327.03,3.4,Cash,Completed,October,10,36-45
+10670,2026-11-01,Female,34,Islamabad,Electronics,Tablet,3,12913,10,34865.1,27549.9,7315.2,3.8,Cash,Completed,November,11,26-35
+10671,2026-11-02,Male,22,Karachi,Beauty,Skincare,1,776,20,620.8,499.66,121.14,4.5,Bank Transfer,Completed,November,11,18-25
+10672,2026-11-03,Male,56,Lahore,Electronics,Phone,4,18111,15,61577.4,46600.17,14977.23,4.5,JazzCash,Completed,November,11,56-65
+10673,2026-11-04,Male,35,Islamabad,Home,Chair,4,39605,10,142578.0,78625.97,63952.03,4.9,JazzCash,Completed,November,11,26-35
+10674,2026-11-05,Female,24,Karachi,Sports,Football,1,12444,10,11199.6,6163.85,5035.75,4.6,Bank Transfer,Completed,November,11,18-25
+10675,2026-11-06,Male,34,Multan,Electronics,Tablet,1,16406,15,13945.1,9093.42,4851.68,3.9,JazzCash,Completed,November,11,26-35
+10676,2026-11-07,Female,56,Karachi,Home,Bedsheet,1,21036,20,16828.8,9907.4,6921.4,2.9,Card,Completed,November,11,56-65
+10677,2026-11-08,Female,53,Faisalabad,Home,Lamp,2,28310,0,56620.0,31422.08,25197.92,2.7,Card,Completed,November,11,46-55
+10678,2026-11-09,Male,57,Multan,Beauty,Haircare,2,12806,15,21770.2,14701.37,7068.83,2.6,EasyPaisa,Completed,November,11,56-65
+10679,2026-11-10,Male,62,Islamabad,Home,Lamp,2,11003,15,18705.1,15050.62,3654.48,4.2,EasyPaisa,Completed,November,11,56-65
+10680,2026-11-11,Female,21,Karachi,Home,Lamp,5,19725,15,83831.25,53436.66,30394.59,4.5,Bank Transfer,Completed,November,11,18-25
+10681,2026-11-12,Female,55,Peshawar,Home,Lamp,4,37476,10,134913.6,98285.63,36627.97,3.8,Bank Transfer,Completed,November,11,46-55
+10682,2026-11-13,Female,42,Islamabad,Home,Chair,4,12090,5,45942.0,33358.65,12583.35,2.6,Bank Transfer,Cancelled,November,11,36-45
+10683,2026-11-14,Female,22,Karachi,Clothing,Shoes,3,11386,0,34158.0,21102.53,13055.47,3.8,Card,Completed,November,11,18-25
+10684,2026-11-15,Female,47,Faisalabad,Clothing,Shirt,2,13366,20,21385.6,15517.71,5867.89,4.8,JazzCash,Completed,November,11,46-55
+10685,2026-11-16,Female,29,Lahore,Beauty,Haircare,5,1588,20,6352.0,3857.76,2494.24,4.0,Bank Transfer,Completed,November,11,26-35
+10686,2026-11-17,Male,21,Lahore,Electronics,Phone,5,3863,5,18349.25,10696.55,7652.7,4.5,Bank Transfer,Completed,November,11,18-25
+10687,2026-11-18,Female,41,Peshawar,Home,Lamp,4,33292,15,113192.8,83691.76,29501.04,4.5,Card,Completed,November,11,36-45
+10688,2026-11-19,Female,46,Islamabad,Electronics,Headphones,2,10264,0,20528.0,11919.15,8608.85,4.8,Card,Completed,November,11,46-55
+10689,2026-11-20,Female,26,Faisalabad,Electronics,Phone,3,21120,20,50688.0,41521.86,9166.14,4.4,Card,Returned,November,11,26-35
+10690,2026-11-21,Female,21,Karachi,Beauty,Makeup,2,43227,25,64840.5,38873.96,25966.54,4.4,JazzCash,Returned,November,11,18-25
+10691,2026-11-22,Male,41,Karachi,Home,Bedsheet,1,13435,20,10748.0,7635.58,3112.42,3.1,Bank Transfer,Completed,November,11,36-45
+10692,2026-11-23,Male,31,Lahore,Home,Bedsheet,2,8568,15,14565.6,9628.9,4936.7,2.6,Cash,Completed,November,11,26-35
+10693,2026-11-24,Female,22,Faisalabad,Sports,Cricket Bat,1,7795,25,5846.25,3414.94,2431.31,3.8,Cash,Completed,November,11,18-25
+10694,2026-11-25,Female,35,Multan,Electronics,Tablet,1,41660,5,39577.0,22064.88,17512.12,2.8,Bank Transfer,Completed,November,11,26-35
+10695,2026-11-26,Female,59,Peshawar,Electronics,Headphones,3,11890,0,35670.0,25615.97,10054.03,4.9,Bank Transfer,Completed,November,11,56-65
+10696,2026-11-27,Male,36,Lahore,Clothing,Shirt,4,41716,5,158520.8,121716.16,36804.64,3.2,Bank Transfer,Completed,November,11,36-45
+10697,2026-11-28,Male,29,Lahore,Sports,Football,2,20631,5,39198.9,30471.04,8727.86,4.6,Bank Transfer,Completed,November,11,26-35
+10698,2026-11-29,Male,35,Peshawar,Clothing,Shirt,1,29718,0,29718.0,20218.13,9499.87,3.5,JazzCash,Completed,November,11,26-35
+10699,2026-11-30,Male,34,Islamabad,Clothing,Jeans,2,10933,0,21866.0,16616.26,5249.74,3.3,Cash,Completed,November,11,26-35
+10700,2026-12-01,Male,47,Karachi,Clothing,Shoes,4,15538,20,49721.6,36379.74,13341.86,4.8,EasyPaisa,Returned,December,12,46-55
+10701,2026-12-02,Male,41,Islamabad,Beauty,Makeup,4,28682,20,91782.4,68428.25,23354.15,3.4,Cash,Completed,December,12,36-45
+10702,2026-12-03,Female,28,Faisalabad,Beauty,Haircare,5,12028,0,60140.0,41075.72,19064.28,3.5,Cash,Cancelled,December,12,26-35
+10703,2026-12-04,Male,52,Multan,Clothing,Shoes,4,21781,25,65343.0,47113.69,18229.31,2.8,Card,Completed,December,12,46-55
+10704,2026-12-05,Male,40,Rawalpindi,Sports,Gym Bag,3,49011,10,132329.7,101561.99,30767.71,4.2,Bank Transfer,Completed,December,12,36-45
+10705,2026-12-06,Female,34,Rawalpindi,Electronics,Laptop,1,9105,20,7284.0,4788.71,2495.29,3.2,Bank Transfer,Completed,December,12,26-35
+10706,2026-12-07,Male,18,Rawalpindi,Sports,Running Shoes,5,35282,10,158769.0,121873.36,36895.64,4.0,Bank Transfer,Completed,December,12,18-25
+10707,2026-12-08,Female,32,Peshawar,Home,Cookware,3,1881,25,4232.25,3004.24,1228.01,4.0,Card,Returned,December,12,26-35
+10708,2026-12-09,Male,49,Lahore,Beauty,Haircare,2,1598,0,3196.0,1900.96,1295.04,4.3,JazzCash,Completed,December,12,46-55
+10709,2026-12-10,Female,26,Multan,Electronics,Laptop,1,20310,25,15232.5,8479.4,6753.1,4.4,JazzCash,Cancelled,December,12,26-35
+10710,2026-12-11,Female,32,Islamabad,Electronics,Laptop,4,24822,20,79430.4,51466.41,27963.99,3.8,EasyPaisa,Completed,December,12,26-35
+10711,2026-12-12,Female,45,Karachi,Home,Cookware,1,42369,5,40250.55,28079.11,12171.44,3.3,JazzCash,Returned,December,12,36-45
+10712,2026-12-13,Female,41,Rawalpindi,Home,Lamp,2,33455,0,66910.0,51972.44,14937.56,4.6,JazzCash,Completed,December,12,36-45
+10713,2026-12-14,Female,52,Islamabad,Clothing,Shirt,5,45216,15,192168.0,112307.04,79860.96,3.3,Bank Transfer,Completed,December,12,46-55
+10714,2026-12-15,Male,39,Rawalpindi,Beauty,Perfume,5,10707,10,48181.5,36909.71,11271.79,3.8,Cash,Completed,December,12,36-45
+10715,2026-12-16,Male,44,Multan,Beauty,Skincare,5,22293,25,83598.75,65458.86,18139.89,3.5,JazzCash,Completed,December,12,36-45
+10716,2026-12-17,Female,36,Rawalpindi,Sports,Gym Bag,4,2592,0,10368.0,6124.23,4243.77,4.6,JazzCash,Completed,December,12,36-45
+10717,2026-12-18,Female,62,Karachi,Clothing,Jacket,3,28720,25,64620.0,50399.11,14220.89,3.6,Card,Completed,December,12,56-65
+10718,2026-12-19,Female,29,Faisalabad,Clothing,Jacket,3,19014,0,57042.0,46642.81,10399.19,3.5,EasyPaisa,Returned,December,12,26-35
+10719,2026-12-20,Male,37,Faisalabad,Clothing,Jeans,1,38510,20,30808.0,22990.36,7817.64,4.2,Card,Completed,December,12,36-45
+10720,2026-12-21,Female,18,Multan,Clothing,Shoes,4,9049,20,28956.8,22061.83,6894.97,4.0,Bank Transfer,Cancelled,December,12,18-25
+10721,2026-12-22,Female,38,Faisalabad,Beauty,Makeup,5,22531,20,90124.0,73765.78,16358.22,2.8,Cash,Completed,December,12,36-45
+10722,2026-12-23,Female,62,Peshawar,Beauty,Perfume,5,5685,25,21318.75,15210.5,6108.25,3.8,EasyPaisa,Completed,December,12,56-65
+10723,2026-12-24,Female,18,Lahore,Clothing,Jacket,2,15771,15,26810.7,16974.64,9836.06,4.3,Card,Cancelled,December,12,18-25
+10724,2026-12-25,Male,27,Peshawar,Sports,Football,2,6276,20,10041.6,7793.62,2247.98,5.0,JazzCash,Completed,December,12,26-35
+10725,2026-12-26,Female,64,Islamabad,Electronics,Phone,5,12949,0,64745.0,46351.67,18393.33,4.1,JazzCash,Returned,December,12,56-65
+10726,2026-12-27,Female,49,Peshawar,Electronics,Laptop,5,24797,20,99188.0,70118.26,29069.74,3.4,EasyPaisa,Completed,December,12,46-55
+10727,2026-12-28,Male,56,Islamabad,Sports,Running Shoes,4,41091,5,156145.8,96573.3,59572.5,3.1,JazzCash,Completed,December,12,56-65
+10728,2026-12-29,Female,39,Islamabad,Clothing,Jacket,3,16217,20,38920.8,29354.47,9566.33,4.7,Card,Completed,December,12,36-45
+10729,2026-12-30,Female,35,Lahore,Beauty,Makeup,2,40623,25,60934.5,34857.59,26076.91,4.5,Card,Completed,December,12,26-35
+10730,2026-12-31,Male,65,Karachi,Electronics,Phone,3,39733,15,101319.15,81010.49,20308.66,3.1,JazzCash,Completed,December,12,56-65
+10731,2027-01-01,Male,63,Multan,Home,Chair,4,46005,5,174819.0,111529.69,63289.31,3.0,JazzCash,Completed,January,1,56-65
+10732,2027-01-02,Male,49,Lahore,Home,Bedsheet,5,46592,25,174720.0,102123.69,72596.31,4.3,Bank Transfer,Completed,January,1,46-55
+10733,2027-01-03,Female,44,Multan,Sports,Running Shoes,3,10850,25,24412.5,16342.68,8069.82,3.3,Cash,Cancelled,January,1,36-45
+10734,2027-01-04,Female,45,Faisalabad,Clothing,Shirt,5,31122,25,116707.5,65527.4,51180.1,3.3,EasyPaisa,Completed,January,1,36-45
+10735,2027-01-05,Male,35,Faisalabad,Electronics,Phone,5,35823,0,179115.0,131622.49,47492.51,2.9,Card,Completed,January,1,26-35
+10736,2027-01-06,Male,56,Peshawar,Clothing,Jacket,1,3451,25,2588.25,2054.37,533.88,3.2,EasyPaisa,Completed,January,1,56-65
+10737,2027-01-07,Male,46,Islamabad,Electronics,Headphones,3,18122,0,54366.0,42191.33,12174.67,3.6,Bank Transfer,Completed,January,1,46-55
+10738,2027-01-08,Female,35,Rawalpindi,Sports,Cricket Bat,3,5227,25,11760.75,6872.86,4887.89,4.3,Card,Cancelled,January,1,26-35
+10739,2027-01-09,Female,61,Rawalpindi,Sports,Gym Bag,5,38954,10,175293.0,102387.45,72905.55,3.3,Bank Transfer,Completed,January,1,56-65
+10740,2027-01-10,Male,25,Multan,Home,Chair,4,36969,5,140482.2,108118.94,32363.26,3.3,Bank Transfer,Completed,January,1,18-25
+10741,2027-01-11,Female,48,Islamabad,Clothing,Jeans,1,36048,10,32443.2,25939.92,6503.28,3.2,JazzCash,Completed,January,1,46-55
+10742,2027-01-12,Male,51,Multan,Home,Lamp,5,24282,25,91057.5,61407.43,29650.07,3.7,EasyPaisa,Completed,January,1,46-55
+10743,2027-01-13,Female,24,Lahore,Clothing,Shirt,2,28954,5,55012.6,37668.35,17344.25,3.0,EasyPaisa,Returned,January,1,18-25
+10744,2027-01-14,Female,53,Karachi,Home,Bedsheet,2,2868,5,5449.2,3465.31,1983.89,3.7,JazzCash,Completed,January,1,46-55
+10745,2027-01-15,Female,35,Lahore,Beauty,Makeup,1,16092,15,13678.2,10825.63,2852.57,4.3,EasyPaisa,Cancelled,January,1,26-35
+10746,2027-01-16,Female,55,Islamabad,Beauty,Skincare,4,22673,10,81622.8,59105.01,22517.79,2.6,JazzCash,Completed,January,1,46-55
+10747,2027-01-17,Male,26,Islamabad,Beauty,Haircare,5,33704,15,143242.0,89931.33,53310.67,2.5,Card,Cancelled,January,1,26-35
+10748,2027-01-18,Female,26,Karachi,Beauty,Perfume,3,36096,5,102873.6,64879.43,37994.17,2.7,Bank Transfer,Completed,January,1,26-35
+10749,2027-01-19,Female,63,Multan,Electronics,Phone,1,34824,0,34824.0,27532.69,7291.31,3.8,Bank Transfer,Returned,January,1,56-65
+10750,2027-01-20,Male,25,Peshawar,Beauty,Makeup,4,46632,5,177201.6,98113.19,79088.41,4.6,EasyPaisa,Cancelled,January,1,18-25
+10751,2027-01-21,Female,52,Peshawar,Sports,Football,3,24364,15,62128.2,39584.12,22544.08,2.5,Cash,Cancelled,January,1,46-55
+10752,2027-01-22,Male,35,Karachi,Sports,Football,2,48329,10,86992.2,60866.38,26125.82,4.8,Bank Transfer,Completed,January,1,26-35
+10753,2027-01-23,Male,22,Peshawar,Electronics,Laptop,2,31250,25,46875.0,27657.13,19217.87,2.8,JazzCash,Completed,January,1,18-25
+10754,2027-01-24,Female,31,Rawalpindi,Beauty,Haircare,3,11076,25,24921.0,14326.25,10594.75,4.6,Cash,Completed,January,1,26-35
+10755,2027-01-25,Female,45,Peshawar,Beauty,Makeup,1,17066,10,15359.4,11828.65,3530.75,3.7,Cash,Completed,January,1,36-45
+10756,2027-01-26,Male,47,Peshawar,Beauty,Skincare,2,7690,25,11535.0,9129.83,2405.17,4.1,Bank Transfer,Completed,January,1,46-55
+10757,2027-01-27,Male,21,Peshawar,Home,Bedsheet,5,23571,25,88391.25,68271.08,20120.17,3.8,Bank Transfer,Completed,January,1,18-25
+10758,2027-01-28,Male,56,Rawalpindi,Clothing,Shoes,3,38833,15,99024.15,78493.74,20530.41,3.7,Bank Transfer,Completed,January,1,56-65
+10759,2027-01-29,Female,37,Multan,Home,Bedsheet,3,15869,10,42846.3,29964.14,12882.16,4.6,JazzCash,Completed,January,1,36-45
+10760,2027-01-30,Male,42,Peshawar,Clothing,Shirt,2,24535,20,39256.0,30200.02,9055.98,4.4,Cash,Completed,January,1,36-45
+10761,2027-01-31,Male,45,Faisalabad,Beauty,Makeup,1,2089,0,2089.0,1365.56,723.44,3.7,EasyPaisa,Completed,January,1,36-45
+10762,2027-02-01,Male,29,Rawalpindi,Beauty,Haircare,5,25735,0,128675.0,93918.89,34756.11,2.8,JazzCash,Completed,February,2,26-35
+10763,2027-02-02,Female,19,Karachi,Home,Chair,1,659,25,494.25,403.8,90.45,2.8,Card,Completed,February,2,18-25
+10764,2027-02-03,Male,60,Lahore,Home,Cookware,4,12645,0,50580.0,30901.67,19678.33,4.5,Bank Transfer,Completed,February,2,56-65
+10765,2027-02-04,Female,31,Karachi,Clothing,Jeans,4,15873,10,57142.8,37444.13,19698.67,3.8,Cash,Completed,February,2,26-35
+10766,2027-02-05,Female,39,Lahore,Sports,Running Shoes,2,32421,10,58357.8,39660.71,18697.09,3.7,JazzCash,Returned,February,2,36-45
+10767,2027-02-06,Male,48,Karachi,Clothing,Jeans,2,39823,5,75663.7,44434.58,31229.12,4.2,Card,Cancelled,February,2,46-55
+10768,2027-02-07,Female,40,Faisalabad,Home,Lamp,2,16737,5,31800.3,18185.97,13614.33,4.6,JazzCash,Cancelled,February,2,36-45
+10769,2027-02-08,Male,65,Lahore,Home,Bedsheet,4,42471,0,169884.0,131494.49,38389.51,4.1,JazzCash,Returned,February,2,56-65
+10770,2027-02-09,Female,37,Lahore,Electronics,Phone,1,8744,20,6995.2,5692.24,1302.96,4.4,EasyPaisa,Completed,February,2,36-45
+10771,2027-02-10,Female,55,Islamabad,Home,Cookware,1,15243,5,14480.85,9546.87,4933.98,4.4,EasyPaisa,Completed,February,2,46-55
+10772,2027-02-11,Male,21,Lahore,Electronics,Tablet,2,32066,5,60925.4,34950.8,25974.6,3.4,JazzCash,Completed,February,2,18-25
+10773,2027-02-12,Male,32,Lahore,Sports,Gym Bag,5,46601,10,209704.5,119063.75,90640.75,3.2,Card,Completed,February,2,26-35
+10774,2027-02-13,Male,41,Islamabad,Clothing,Jacket,1,46609,20,37287.2,29481.35,7805.85,4.5,Cash,Completed,February,2,36-45
+10775,2027-02-14,Female,42,Peshawar,Clothing,Jeans,4,19191,25,57573.0,38875.01,18697.99,3.4,Cash,Completed,February,2,36-45
+10776,2027-02-15,Female,18,Peshawar,Electronics,Laptop,3,34496,0,103488.0,65860.53,37627.47,4.8,Bank Transfer,Completed,February,2,18-25
+10777,2027-02-16,Male,24,Islamabad,Clothing,Shirt,3,6090,5,17356.5,11778.89,5577.61,2.7,Bank Transfer,Completed,February,2,18-25
+10778,2027-02-17,Male,48,Rawalpindi,Home,Chair,3,6085,20,14604.0,9287.3,5316.7,2.6,Cash,Completed,February,2,46-55
+10779,2027-02-18,Female,29,Lahore,Beauty,Haircare,5,9727,20,38908.0,26536.8,12371.2,4.8,JazzCash,Completed,February,2,26-35
+10780,2027-02-19,Female,59,Lahore,Electronics,Tablet,2,28778,0,57556.0,45013.41,12542.59,4.1,JazzCash,Completed,February,2,56-65
+10781,2027-02-20,Female,22,Islamabad,Clothing,Shoes,4,39314,20,125804.8,89311.52,36493.28,3.4,EasyPaisa,Completed,February,2,18-25
+10782,2027-02-21,Male,61,Islamabad,Electronics,Tablet,5,12737,20,50948.0,37577.03,13370.97,4.4,EasyPaisa,Completed,February,2,56-65
+10783,2027-02-22,Female,59,Rawalpindi,Electronics,Phone,4,16149,20,51676.8,33510.39,18166.41,4.2,Bank Transfer,Completed,February,2,56-65
+10784,2027-02-23,Male,55,Faisalabad,Beauty,Haircare,4,38213,5,145209.4,108819.43,36389.97,3.8,Cash,Returned,February,2,46-55
+10785,2027-02-24,Female,29,Peshawar,Home,Cookware,2,8427,0,16854.0,12303.19,4550.81,2.7,JazzCash,Completed,February,2,26-35
+10786,2027-02-25,Female,56,Karachi,Electronics,Tablet,3,45909,20,110181.6,64156.73,46024.87,4.5,Cash,Completed,February,2,56-65
+10787,2027-02-26,Male,35,Faisalabad,Clothing,Shirt,2,49266,20,78825.6,55541.59,23284.01,4.7,Card,Completed,February,2,26-35
+10788,2027-02-27,Male,19,Multan,Sports,Gym Bag,5,46654,5,221606.5,137245.5,84361.0,2.9,Cash,Completed,February,2,18-25
+10789,2027-02-28,Male,27,Peshawar,Electronics,Phone,5,7516,0,37580.0,28827.84,8752.16,4.6,Card,Completed,February,2,26-35
+10790,2027-03-01,Female,32,Lahore,Electronics,Laptop,5,14527,10,65371.5,43472.26,21899.24,4.7,EasyPaisa,Completed,March,3,26-35
+10791,2027-03-02,Female,47,Multan,Beauty,Skincare,2,49188,5,93457.2,76500.77,16956.43,3.9,EasyPaisa,Completed,March,3,46-55
+10792,2027-03-03,Female,61,Faisalabad,Home,Chair,4,24642,0,98568.0,56674.15,41893.85,4.1,Bank Transfer,Returned,March,3,56-65
+10793,2027-03-04,Male,34,Islamabad,Sports,Football,4,47020,20,150464.0,114457.05,36006.95,3.5,Cash,Returned,March,3,26-35
+10794,2027-03-05,Female,21,Rawalpindi,Clothing,Jeans,1,24045,0,24045.0,17598.52,6446.48,3.2,Cash,Completed,March,3,18-25
+10795,2027-03-06,Male,24,Peshawar,Sports,Cricket Bat,5,32397,0,161985.0,122659.04,39325.96,4.3,Card,Completed,March,3,18-25
+10796,2027-03-07,Male,58,Rawalpindi,Clothing,Shoes,4,3667,25,11001.0,6964.0,4037.0,4.7,EasyPaisa,Completed,March,3,56-65
+10797,2027-03-08,Male,48,Multan,Home,Cookware,1,45257,0,45257.0,30903.96,14353.04,4.1,Card,Completed,March,3,46-55
+10798,2027-03-09,Female,56,Peshawar,Clothing,Jeans,4,27417,10,98701.2,75512.07,23189.13,3.8,EasyPaisa,Completed,March,3,56-65
+10799,2027-03-10,Female,51,Faisalabad,Beauty,Skincare,5,23236,0,116180.0,71193.5,44986.5,2.9,Card,Returned,March,3,46-55
+10800,2027-03-11,Male,23,Lahore,Beauty,Skincare,3,28490,10,76923.0,47002.18,29920.82,2.6,EasyPaisa,Completed,March,3,18-25
+10801,2027-03-12,Female,55,Karachi,Beauty,Haircare,5,14587,20,58348.0,40772.63,17575.37,3.6,Card,Returned,March,3,46-55
+10802,2027-03-13,Male,62,Rawalpindi,Beauty,Makeup,2,22940,10,41292.0,28547.73,12744.27,2.6,EasyPaisa,Completed,March,3,56-65
+10803,2027-03-14,Male,51,Rawalpindi,Sports,Football,4,35705,20,114256.0,71548.35,42707.65,3.9,Card,Completed,March,3,46-55
+10804,2027-03-15,Female,61,Karachi,Home,Bedsheet,4,15775,20,50480.0,31826.65,18653.35,3.5,Cash,Completed,March,3,56-65
+10805,2027-03-16,Male,32,Rawalpindi,Clothing,Shoes,2,5776,10,10396.8,6498.19,3898.61,4.4,Bank Transfer,Returned,March,3,26-35
+10806,2027-03-17,Male,31,Rawalpindi,Clothing,Jacket,2,42127,5,80041.3,60695.98,19345.32,3.3,Card,Returned,March,3,26-35
+10807,2027-03-18,Female,23,Peshawar,Beauty,Makeup,3,41086,15,104769.3,76063.9,28705.4,4.0,Bank Transfer,Completed,March,3,18-25
+10808,2027-03-19,Male,54,Peshawar,Beauty,Haircare,4,37996,0,151984.0,117750.01,34233.99,3.8,Cash,Completed,March,3,46-55
+10809,2027-03-20,Male,49,Karachi,Electronics,Laptop,4,19508,25,58524.0,47602.12,10921.88,2.5,Cash,Completed,March,3,46-55
+10810,2027-03-21,Male,20,Multan,Home,Bedsheet,3,6238,15,15906.9,10785.27,5121.63,2.7,EasyPaisa,Cancelled,March,3,18-25
+10811,2027-03-22,Male,20,Lahore,Sports,Running Shoes,1,32902,0,32902.0,18688.58,14213.42,3.2,Bank Transfer,Returned,March,3,18-25
+10812,2027-03-23,Male,39,Faisalabad,Clothing,Shirt,3,6293,0,18879.0,10628.59,8250.41,4.7,JazzCash,Completed,March,3,36-45
+10813,2027-03-24,Male,39,Faisalabad,Electronics,Headphones,5,37791,20,151164.0,95207.56,55956.44,2.9,EasyPaisa,Completed,March,3,36-45
+10814,2027-03-25,Male,27,Multan,Electronics,Laptop,4,6071,0,24284.0,19470.6,4813.4,4.3,Bank Transfer,Completed,March,3,26-35
+10815,2027-03-26,Female,20,Rawalpindi,Clothing,Jeans,2,31831,25,47746.5,33005.6,14740.9,4.9,Card,Completed,March,3,18-25
+10816,2027-03-27,Female,29,Lahore,Sports,Running Shoes,5,16709,0,83545.0,52080.48,31464.52,4.5,Card,Completed,March,3,26-35
+10817,2027-03-28,Male,46,Karachi,Electronics,Headphones,4,48514,10,174650.4,114880.67,59769.73,3.1,Cash,Completed,March,3,46-55
+10818,2027-03-29,Male,65,Multan,Electronics,Tablet,3,25894,15,66029.7,46988.1,19041.6,4.8,JazzCash,Completed,March,3,56-65
+10819,2027-03-30,Female,34,Karachi,Home,Cookware,5,43648,10,196416.0,142656.24,53759.76,2.7,Card,Completed,March,3,26-35
+10820,2027-03-31,Female,24,Peshawar,Sports,Running Shoes,4,26182,25,78546.0,46464.54,32081.46,3.7,Bank Transfer,Cancelled,March,3,18-25
+10821,2027-04-01,Female,30,Rawalpindi,Electronics,Phone,1,2724,0,2724.0,2216.79,507.21,4.7,Bank Transfer,Completed,April,4,26-35
+10822,2027-04-02,Female,19,Islamabad,Sports,Running Shoes,1,41657,25,31242.75,21778.96,9463.79,4.1,Card,Completed,April,4,18-25
+10823,2027-04-03,Female,21,Karachi,Clothing,Jeans,2,49195,20,78712.0,46175.28,32536.72,3.5,Bank Transfer,Completed,April,4,18-25
+10824,2027-04-04,Male,27,Multan,Beauty,Skincare,4,44952,10,161827.2,128050.87,33776.33,3.2,Bank Transfer,Completed,April,4,26-35
+10825,2027-04-05,Female,56,Rawalpindi,Electronics,Phone,1,43908,10,39517.2,22530.83,16986.37,3.4,Cash,Completed,April,4,56-65
+10826,2027-04-06,Female,41,Lahore,Home,Chair,3,32941,5,93881.85,74644.39,19237.46,3.8,JazzCash,Completed,April,4,36-45
+10827,2027-04-07,Female,34,Multan,Clothing,Shirt,4,41930,0,167720.0,137374.88,30345.12,3.3,Cash,Completed,April,4,26-35
+10828,2027-04-08,Male,23,Peshawar,Sports,Gym Bag,3,39629,20,95109.6,70297.08,24812.52,4.9,JazzCash,Completed,April,4,18-25
+10829,2027-04-09,Male,36,Faisalabad,Clothing,Shirt,3,35216,10,95083.2,72075.04,23008.16,4.8,Bank Transfer,Completed,April,4,36-45
+10830,2027-04-10,Male,22,Lahore,Electronics,Headphones,1,45359,10,40823.1,26170.54,14652.56,4.7,JazzCash,Completed,April,4,18-25
+10831,2027-04-11,Male,49,Karachi,Sports,Football,4,27086,20,86675.2,69706.43,16968.77,3.6,Bank Transfer,Completed,April,4,46-55
+10832,2027-04-12,Male,27,Karachi,Beauty,Perfume,5,45260,25,169725.0,117623.29,52101.71,4.2,Bank Transfer,Completed,April,4,26-35
+10833,2027-04-13,Male,26,Lahore,Clothing,Jacket,1,23978,25,17983.5,13447.07,4536.43,4.8,Cash,Completed,April,4,26-35
+10834,2027-04-14,Female,44,Karachi,Electronics,Headphones,1,6818,0,6818.0,5451.05,1366.95,4.6,Cash,Completed,April,4,36-45
+10835,2027-04-15,Male,30,Multan,Home,Cookware,4,29194,5,110937.2,90225.07,20712.13,3.5,EasyPaisa,Cancelled,April,4,26-35
+10836,2027-04-16,Male,36,Rawalpindi,Sports,Football,4,20680,10,74448.0,57694.61,16753.39,2.8,Card,Completed,April,4,36-45
+10837,2027-04-17,Female,38,Karachi,Clothing,Shirt,3,12680,5,36138.0,22832.52,13305.48,2.7,EasyPaisa,Completed,April,4,36-45
+10838,2027-04-18,Male,41,Peshawar,Clothing,Jacket,4,33502,25,100506.0,81507.13,18998.87,3.9,EasyPaisa,Completed,April,4,36-45
+10839,2027-04-19,Female,55,Rawalpindi,Beauty,Haircare,3,15872,25,35712.0,25698.08,10013.92,4.1,JazzCash,Completed,April,4,46-55
+10840,2027-04-20,Female,21,Multan,Beauty,Haircare,1,30296,15,25751.6,20634.07,5117.53,4.6,Bank Transfer,Returned,April,4,18-25
+10841,2027-04-21,Male,41,Islamabad,Home,Chair,2,24927,0,49854.0,36520.47,13333.53,3.2,Bank Transfer,Completed,April,4,36-45
+10842,2027-04-22,Female,52,Karachi,Home,Cookware,5,33790,15,143607.5,90897.02,52710.48,2.9,Bank Transfer,Completed,April,4,46-55
+10843,2027-04-23,Female,20,Karachi,Electronics,Phone,1,28599,15,24309.15,15798.68,8510.47,3.4,Card,Completed,April,4,18-25
+10844,2027-04-24,Female,21,Peshawar,Electronics,Tablet,4,45986,15,156352.4,109232.07,47120.33,3.4,JazzCash,Completed,April,4,18-25
+10845,2027-04-25,Female,54,Multan,Home,Chair,5,10321,0,51605.0,39390.3,12214.7,2.8,JazzCash,Completed,April,4,46-55
+10846,2027-04-26,Male,57,Peshawar,Home,Cookware,2,6332,0,12664.0,8052.47,4611.53,4.2,Bank Transfer,Completed,April,4,56-65
+10847,2027-04-27,Female,65,Faisalabad,Sports,Running Shoes,2,13320,20,21312.0,15057.51,6254.49,3.8,EasyPaisa,Completed,April,4,56-65
+10848,2027-04-28,Male,52,Multan,Beauty,Makeup,3,16711,5,47626.35,30638.92,16987.43,4.3,Card,Completed,April,4,46-55
+10849,2027-04-29,Female,48,Lahore,Electronics,Laptop,5,40390,5,191852.5,147775.87,44076.63,3.4,EasyPaisa,Completed,April,4,46-55
+10850,2027-04-30,Female,61,Lahore,Beauty,Skincare,3,6342,20,15220.8,10289.51,4931.29,3.3,Cash,Completed,April,4,56-65
+10851,2027-05-01,Female,42,Lahore,Beauty,Haircare,1,1816,20,1452.8,829.13,623.67,3.7,JazzCash,Completed,May,5,36-45
+10852,2027-05-02,Male,57,Peshawar,Home,Bedsheet,5,46468,25,174255.0,103652.83,70602.17,4.7,JazzCash,Completed,May,5,56-65
+10853,2027-05-03,Male,30,Lahore,Sports,Gym Bag,1,18008,15,15306.8,8671.28,6635.52,2.6,EasyPaisa,Completed,May,5,26-35
+10854,2027-05-04,Male,21,Multan,Clothing,Shirt,3,22505,20,54012.0,36988.05,17023.95,4.5,Card,Completed,May,5,18-25
+10855,2027-05-05,Female,63,Lahore,Sports,Football,5,15706,10,70677.0,40901.56,29775.44,3.4,JazzCash,Completed,May,5,56-65
+10856,2027-05-06,Female,31,Islamabad,Sports,Running Shoes,3,19471,5,55492.35,32230.94,23261.41,4.6,EasyPaisa,Returned,May,5,26-35
+10857,2027-05-07,Female,30,Lahore,Beauty,Haircare,5,26099,20,104396.0,83943.05,20452.95,4.5,Card,Returned,May,5,26-35
+10858,2027-05-08,Female,44,Karachi,Sports,Football,3,22556,10,60901.2,47845.01,13056.19,3.4,EasyPaisa,Completed,May,5,36-45
+10859,2027-05-09,Male,23,Faisalabad,Electronics,Headphones,2,1878,10,3380.4,2271.84,1108.56,4.2,Card,Completed,May,5,18-25
+10860,2027-05-10,Female,34,Peshawar,Beauty,Haircare,3,2019,10,5451.3,4449.17,1002.13,2.9,Bank Transfer,Completed,May,5,26-35
+10861,2027-05-11,Male,53,Rawalpindi,Electronics,Phone,2,22661,25,33991.5,18697.04,15294.46,4.7,Card,Completed,May,5,46-55
+10862,2027-05-12,Female,57,Faisalabad,Clothing,Jacket,3,41203,25,92706.75,66357.12,26349.63,3.5,Cash,Completed,May,5,56-65
+10863,2027-05-13,Male,52,Islamabad,Beauty,Perfume,5,39361,10,177124.5,126898.3,50226.2,3.6,Bank Transfer,Completed,May,5,46-55
+10864,2027-05-14,Male,34,Peshawar,Clothing,Shirt,5,5855,25,21956.25,14787.75,7168.5,4.3,EasyPaisa,Completed,May,5,26-35
+10865,2027-05-15,Female,58,Multan,Beauty,Makeup,5,9583,15,40727.75,26765.3,13962.45,4.6,Bank Transfer,Completed,May,5,56-65
+10866,2027-05-16,Female,19,Peshawar,Home,Cookware,4,38842,10,139831.2,94099.89,45731.31,3.1,Bank Transfer,Completed,May,5,18-25
+10867,2027-05-17,Male,30,Karachi,Sports,Football,1,20956,15,17812.6,11792.64,6019.96,4.2,EasyPaisa,Completed,May,5,26-35
+10868,2027-05-18,Female,19,Multan,Home,Chair,5,13824,15,58752.0,43901.43,14850.57,3.5,EasyPaisa,Completed,May,5,18-25
+10869,2027-05-19,Female,45,Faisalabad,Clothing,Shoes,2,2757,10,4962.6,2910.79,2051.81,3.4,Cash,Completed,May,5,36-45
+10870,2027-05-20,Male,60,Faisalabad,Sports,Cricket Bat,5,27864,5,132354.0,79857.45,52496.55,4.2,EasyPaisa,Completed,May,5,56-65
+10871,2027-05-21,Male,43,Lahore,Beauty,Makeup,4,25472,10,91699.2,54903.97,36795.23,3.5,JazzCash,Completed,May,5,36-45
+10872,2027-05-22,Male,39,Multan,Sports,Cricket Bat,2,46679,10,84022.2,52166.62,31855.58,3.4,JazzCash,Completed,May,5,36-45
+10873,2027-05-23,Male,64,Karachi,Electronics,Laptop,4,27154,25,81462.0,56357.02,25104.98,4.6,Cash,Completed,May,5,56-65
+10874,2027-05-24,Female,60,Lahore,Sports,Running Shoes,2,15733,10,28319.4,16426.0,11893.4,2.8,Card,Completed,May,5,56-65
+10875,2027-05-25,Male,20,Lahore,Electronics,Tablet,3,16387,5,46702.95,36634.06,10068.89,4.2,Card,Completed,May,5,18-25
+10876,2027-05-26,Male,52,Peshawar,Sports,Football,1,29820,25,22365.0,14096.38,8268.62,3.1,JazzCash,Completed,May,5,46-55
+10877,2027-05-27,Male,29,Faisalabad,Electronics,Laptop,1,21308,0,21308.0,12654.51,8653.49,2.5,EasyPaisa,Cancelled,May,5,26-35
+10878,2027-05-28,Female,41,Lahore,Clothing,Shoes,4,30654,0,122616.0,89806.14,32809.86,2.9,Cash,Completed,May,5,36-45
+10879,2027-05-29,Male,22,Islamabad,Home,Bedsheet,1,35273,15,29982.05,16798.44,13183.61,4.0,Card,Completed,May,5,18-25
+10880,2027-05-30,Female,37,Islamabad,Beauty,Skincare,4,28247,15,96039.8,68898.14,27141.66,4.3,Card,Completed,May,5,36-45
+10881,2027-05-31,Male,56,Faisalabad,Sports,Running Shoes,4,11360,5,43168.0,31880.15,11287.85,2.6,Bank Transfer,Completed,May,5,56-65
+10882,2027-06-01,Male,56,Islamabad,Home,Bedsheet,4,43338,20,138681.6,84322.22,54359.38,2.6,JazzCash,Completed,June,6,56-65
+10883,2027-06-02,Female,30,Peshawar,Beauty,Haircare,1,42656,0,42656.0,23944.11,18711.89,4.8,EasyPaisa,Completed,June,6,26-35
+10884,2027-06-03,Male,58,Karachi,Beauty,Makeup,4,18656,15,63430.4,41114.59,22315.81,2.7,Cash,Completed,June,6,56-65
+10885,2027-06-04,Male,62,Rawalpindi,Electronics,Tablet,1,20860,0,20860.0,12028.3,8831.7,4.7,Card,Completed,June,6,56-65
+10886,2027-06-05,Female,29,Lahore,Clothing,Shoes,4,18635,5,70813.0,41174.15,29638.85,3.1,Bank Transfer,Completed,June,6,26-35
+10887,2027-06-06,Male,30,Rawalpindi,Clothing,Jeans,5,25851,5,122792.25,75965.49,46826.76,4.4,JazzCash,Completed,June,6,26-35
+10888,2027-06-07,Male,27,Karachi,Home,Lamp,4,30999,20,99196.8,62471.8,36725.0,3.3,JazzCash,Completed,June,6,26-35
+10889,2027-06-08,Male,50,Karachi,Clothing,Shirt,2,47877,20,76603.2,53093.06,23510.14,4.6,Cash,Completed,June,6,46-55
+10890,2027-06-09,Male,57,Peshawar,Sports,Football,4,24054,25,72162.0,52906.71,19255.29,4.3,Card,Completed,June,6,56-65
+10891,2027-06-10,Female,33,Islamabad,Clothing,Shirt,3,49631,5,141448.35,100435.14,41013.21,3.5,Cash,Completed,June,6,26-35
+10892,2027-06-11,Male,62,Islamabad,Home,Bedsheet,4,20104,15,68353.6,40332.54,28021.06,2.7,Cash,Completed,June,6,56-65
+10893,2027-06-12,Female,52,Karachi,Clothing,Jacket,2,17423,0,34846.0,20784.36,14061.64,4.3,Bank Transfer,Completed,June,6,46-55
+10894,2027-06-13,Male,20,Peshawar,Sports,Running Shoes,2,48091,10,86563.8,68148.88,18414.92,4.0,JazzCash,Completed,June,6,18-25
+10895,2027-06-14,Female,22,Peshawar,Electronics,Phone,1,9047,20,7237.6,5071.79,2165.81,2.5,EasyPaisa,Completed,June,6,18-25
+10896,2027-06-15,Male,43,Faisalabad,Home,Chair,5,44783,10,201523.5,158172.41,43351.09,2.5,JazzCash,Completed,June,6,36-45
+10897,2027-06-16,Female,28,Multan,Electronics,Tablet,4,33502,15,113906.8,74075.59,39831.21,4.5,JazzCash,Completed,June,6,26-35
+10898,2027-06-17,Male,24,Lahore,Electronics,Headphones,1,15062,20,12049.6,8626.16,3423.44,3.1,Bank Transfer,Completed,June,6,18-25
+10899,2027-06-18,Female,27,Multan,Electronics,Headphones,5,7980,10,35910.0,24827.78,11082.22,4.1,EasyPaisa,Completed,June,6,26-35
+10900,2027-06-19,Female,59,Islamabad,Beauty,Perfume,4,27172,15,92384.8,58771.82,33612.98,3.6,Card,Completed,June,6,56-65
+10901,2027-06-20,Male,51,Karachi,Beauty,Haircare,3,4713,0,14139.0,9570.37,4568.63,4.7,EasyPaisa,Completed,June,6,46-55
+10902,2027-06-21,Female,20,Faisalabad,Electronics,Tablet,4,10793,15,36696.2,25161.58,11534.62,4.8,Card,Completed,June,6,18-25
+10903,2027-06-22,Male,25,Rawalpindi,Home,Lamp,2,34941,25,52411.5,31667.46,20744.04,5.0,EasyPaisa,Completed,June,6,18-25
+10904,2027-06-23,Male,48,Islamabad,Sports,Gym Bag,2,2600,20,4160.0,2641.82,1518.18,2.9,Cash,Completed,June,6,46-55
+10905,2027-06-24,Male,28,Lahore,Sports,Gym Bag,3,45117,5,128583.45,98196.69,30386.76,4.7,EasyPaisa,Completed,June,6,26-35
+10906,2027-06-25,Male,62,Peshawar,Clothing,Jeans,1,28672,0,28672.0,22859.12,5812.88,3.2,Bank Transfer,Completed,June,6,56-65
+10907,2027-06-26,Male,24,Karachi,Home,Cookware,5,20632,10,92844.0,60083.48,32760.52,4.0,Card,Completed,June,6,18-25
+10908,2027-06-27,Female,62,Islamabad,Beauty,Haircare,4,18699,20,59836.8,37869.66,21967.14,3.8,JazzCash,Completed,June,6,56-65
+10909,2027-06-28,Male,19,Rawalpindi,Electronics,Phone,2,37109,5,70507.1,42494.86,28012.24,2.5,Bank Transfer,Cancelled,June,6,18-25
+10910,2027-06-29,Male,23,Lahore,Clothing,Jacket,1,43465,15,36945.25,27087.98,9857.27,4.8,Card,Completed,June,6,18-25
+10911,2027-06-30,Male,58,Lahore,Sports,Football,3,8516,5,24270.6,15466.12,8804.48,2.7,Card,Completed,June,6,56-65
+10912,2027-07-01,Male,49,Faisalabad,Beauty,Skincare,2,40279,20,64446.4,52632.88,11813.52,4.2,JazzCash,Completed,July,7,46-55
+10913,2027-07-02,Male,37,Islamabad,Beauty,Skincare,3,37761,20,90626.4,57813.74,32812.66,4.5,Cash,Completed,July,7,36-45
+10914,2027-07-03,Male,51,Rawalpindi,Electronics,Headphones,4,32381,25,97143.0,63766.29,33376.71,4.5,Bank Transfer,Completed,July,7,46-55
+10915,2027-07-04,Female,33,Lahore,Sports,Football,5,17558,25,65842.5,46939.13,18903.37,2.8,JazzCash,Returned,July,7,26-35
+10916,2027-07-05,Female,42,Karachi,Home,Chair,2,24972,5,47446.8,36365.83,11080.97,3.6,JazzCash,Completed,July,7,36-45
+10917,2027-07-06,Male,29,Lahore,Beauty,Haircare,2,41846,15,71138.2,48144.2,22994.0,4.6,Cash,Completed,July,7,26-35
+10918,2027-07-07,Female,24,Rawalpindi,Electronics,Tablet,4,35426,5,134618.8,89402.65,45216.15,3.3,Bank Transfer,Completed,July,7,18-25
+10919,2027-07-08,Male,56,Peshawar,Home,Bedsheet,1,35332,20,28265.6,23144.5,5121.1,3.7,JazzCash,Completed,July,7,56-65
+10920,2027-07-09,Male,34,Peshawar,Sports,Football,5,36521,20,146084.0,80760.1,65323.9,3.2,Cash,Completed,July,7,26-35
+10921,2027-07-10,Male,62,Faisalabad,Beauty,Skincare,2,24587,10,44256.6,35036.52,9220.08,3.7,Bank Transfer,Completed,July,7,56-65
+10922,2027-07-11,Male,28,Islamabad,Home,Bedsheet,5,13328,25,49980.0,29501.6,20478.4,4.7,EasyPaisa,Completed,July,7,26-35
+10923,2027-07-12,Male,23,Rawalpindi,Home,Lamp,2,31628,10,56930.4,43392.34,13538.06,3.6,Card,Completed,July,7,18-25
+10924,2027-07-13,Female,40,Faisalabad,Home,Bedsheet,5,1901,0,9505.0,6813.58,2691.42,3.9,Cash,Completed,July,7,36-45
+10925,2027-07-14,Female,44,Multan,Beauty,Makeup,3,20143,20,48343.2,31050.78,17292.42,3.5,Card,Completed,July,7,36-45
+10926,2027-07-15,Female,63,Lahore,Beauty,Skincare,2,15693,10,28247.4,22200.94,6046.46,3.7,EasyPaisa,Completed,July,7,56-65
+10927,2027-07-16,Female,23,Multan,Clothing,Jeans,5,27353,5,129926.75,71912.5,58014.25,2.5,JazzCash,Completed,July,7,18-25
+10928,2027-07-17,Male,55,Lahore,Sports,Football,1,45364,25,34023.0,20795.08,13227.92,3.2,JazzCash,Completed,July,7,46-55
+10929,2027-07-18,Female,19,Peshawar,Electronics,Laptop,3,20807,25,46815.75,32914.33,13901.42,3.6,Bank Transfer,Completed,July,7,18-25
+10930,2027-07-19,Male,39,Faisalabad,Home,Chair,3,37482,15,95579.1,61640.53,33938.57,4.1,Cash,Completed,July,7,36-45
+10931,2027-07-20,Female,37,Peshawar,Clothing,Shoes,1,20111,5,19105.45,13656.61,5448.84,3.6,Cash,Completed,July,7,36-45
+10932,2027-07-21,Female,42,Karachi,Electronics,Tablet,5,44291,15,188236.75,104755.59,83481.16,3.3,Bank Transfer,Completed,July,7,36-45
+10933,2027-07-22,Female,32,Multan,Clothing,Jacket,4,12450,10,44820.0,26060.32,18759.68,3.5,Card,Completed,July,7,26-35
+10934,2027-07-23,Female,46,Multan,Beauty,Haircare,1,11204,0,11204.0,6546.68,4657.32,3.1,JazzCash,Cancelled,July,7,46-55
+10935,2027-07-24,Male,25,Peshawar,Home,Lamp,5,43611,5,207152.25,124520.58,82631.67,4.8,JazzCash,Completed,July,7,18-25
+10936,2027-07-25,Female,54,Karachi,Electronics,Laptop,1,12367,5,11748.65,7918.82,3829.83,3.8,Cash,Completed,July,7,46-55
+10937,2027-07-26,Female,50,Lahore,Electronics,Tablet,1,3245,5,3082.75,2321.54,761.21,2.5,Cash,Completed,July,7,46-55
+10938,2027-07-27,Male,39,Faisalabad,Electronics,Laptop,2,4366,15,7422.2,5896.9,1525.3,2.5,Bank Transfer,Completed,July,7,36-45
+10939,2027-07-28,Male,64,Karachi,Electronics,Phone,5,32745,10,147352.5,114279.32,33073.18,4.9,EasyPaisa,Completed,July,7,56-65
+10940,2027-07-29,Female,22,Faisalabad,Electronics,Phone,4,45224,5,171851.2,103653.72,68197.48,3.1,Card,Cancelled,July,7,18-25
+10941,2027-07-30,Male,56,Multan,Clothing,Shoes,2,6318,5,12004.2,8032.14,3972.06,4.5,EasyPaisa,Completed,July,7,56-65
+10942,2027-07-31,Male,35,Faisalabad,Home,Chair,1,49361,25,37020.75,22354.65,14666.1,2.6,EasyPaisa,Cancelled,July,7,26-35
+10943,2027-08-01,Male,55,Multan,Beauty,Skincare,1,30616,0,30616.0,19025.01,11590.99,4.8,Cash,Completed,August,8,46-55
+10944,2027-08-02,Female,54,Karachi,Beauty,Makeup,1,15993,25,11994.75,8227.89,3766.86,4.7,Cash,Completed,August,8,46-55
+10945,2027-08-03,Male,47,Multan,Beauty,Makeup,5,28538,25,107017.5,60827.62,46189.88,3.9,Cash,Completed,August,8,46-55
+10946,2027-08-04,Female,48,Islamabad,Beauty,Skincare,5,20947,0,104735.0,63773.88,40961.12,2.5,EasyPaisa,Completed,August,8,46-55
+10947,2027-08-05,Female,27,Multan,Clothing,Shoes,2,30931,10,55675.8,44682.73,10993.07,3.1,Card,Completed,August,8,26-35
+10948,2027-08-06,Female,32,Peshawar,Sports,Running Shoes,4,18408,25,55224.0,37323.22,17900.78,3.5,Cash,Returned,August,8,26-35
+10949,2027-08-07,Female,59,Karachi,Home,Lamp,2,29836,10,53704.8,35995.88,17708.92,3.7,JazzCash,Completed,August,8,56-65
+10950,2027-08-08,Male,65,Lahore,Electronics,Laptop,3,41492,25,93357.0,51713.54,41643.46,3.2,Card,Returned,August,8,56-65
+10951,2027-08-09,Female,61,Faisalabad,Sports,Football,1,4525,20,3620.0,2232.81,1387.19,2.6,JazzCash,Completed,August,8,56-65
+10952,2027-08-10,Male,35,Rawalpindi,Beauty,Haircare,1,20593,0,20593.0,16142.83,4450.17,4.0,Card,Returned,August,8,26-35
+10953,2027-08-11,Female,40,Karachi,Sports,Cricket Bat,1,6655,25,4991.25,2967.05,2024.2,3.8,Cash,Completed,August,8,36-45
+10954,2027-08-12,Male,50,Peshawar,Home,Lamp,2,47107,20,75371.2,49902.05,25469.15,3.2,Bank Transfer,Completed,August,8,46-55
+10955,2027-08-13,Female,33,Multan,Electronics,Tablet,2,33987,15,57777.9,32001.41,25776.49,2.6,Cash,Completed,August,8,26-35
+10956,2027-08-14,Male,55,Faisalabad,Electronics,Headphones,1,48158,20,38526.4,26165.23,12361.17,5.0,EasyPaisa,Completed,August,8,46-55
+10957,2027-08-15,Female,52,Islamabad,Home,Chair,2,21463,5,40779.7,22660.29,18119.41,3.7,EasyPaisa,Completed,August,8,46-55
+10958,2027-08-16,Female,51,Lahore,Home,Cookware,5,21436,25,80385.0,62000.51,18384.49,4.4,Card,Completed,August,8,46-55
+10959,2027-08-17,Male,45,Islamabad,Beauty,Haircare,5,4926,20,19704.0,15225.49,4478.51,3.6,EasyPaisa,Completed,August,8,36-45
+10960,2027-08-18,Female,19,Rawalpindi,Electronics,Laptop,2,23803,10,42845.4,32677.77,10167.63,2.6,Cash,Returned,August,8,18-25
+10961,2027-08-19,Female,47,Karachi,Sports,Football,1,45780,15,38913.0,24379.32,14533.68,3.3,JazzCash,Completed,August,8,46-55
+10962,2027-08-20,Female,30,Faisalabad,Clothing,Shoes,2,28106,25,42159.0,32717.66,9441.34,3.3,Cash,Completed,August,8,26-35
+10963,2027-08-21,Male,58,Karachi,Clothing,Shirt,2,48332,5,91830.8,63970.21,27860.59,4.6,Card,Completed,August,8,56-65
+10964,2027-08-22,Female,33,Peshawar,Home,Chair,2,28651,20,45841.6,29839.59,16002.01,4.1,EasyPaisa,Returned,August,8,26-35
+10965,2027-08-23,Female,22,Karachi,Beauty,Haircare,3,14267,15,36380.85,26151.98,10228.87,3.2,JazzCash,Completed,August,8,18-25
+10966,2027-08-24,Male,45,Lahore,Clothing,Jacket,5,11808,25,44280.0,24501.54,19778.46,4.9,Bank Transfer,Completed,August,8,36-45
+10967,2027-08-25,Male,56,Rawalpindi,Electronics,Tablet,4,44745,15,152133.0,89545.4,62587.6,3.3,JazzCash,Cancelled,August,8,56-65
+10968,2027-08-26,Male,62,Islamabad,Home,Chair,4,46171,5,175449.8,131660.91,43788.89,5.0,JazzCash,Cancelled,August,8,56-65
+10969,2027-08-27,Male,37,Rawalpindi,Sports,Cricket Bat,3,25270,20,60648.0,37354.54,23293.46,5.0,Cash,Returned,August,8,36-45
+10970,2027-08-28,Male,41,Faisalabad,Home,Bedsheet,2,29072,15,49422.4,35162.18,14260.22,3.0,Bank Transfer,Completed,August,8,36-45
+10971,2027-08-29,Female,44,Karachi,Sports,Gym Bag,3,41948,15,106967.4,69954.29,37013.11,3.3,Card,Completed,August,8,36-45
+10972,2027-08-30,Female,47,Faisalabad,Home,Lamp,3,2704,0,8112.0,6333.83,1778.17,3.7,Card,Completed,August,8,46-55
+10973,2027-08-31,Female,62,Islamabad,Home,Chair,1,27733,15,23573.05,19027.04,4546.01,4.2,JazzCash,Completed,August,8,56-65
+10974,2027-09-01,Male,44,Faisalabad,Home,Bedsheet,5,22229,0,111145.0,87644.78,23500.22,3.8,JazzCash,Completed,September,9,36-45
+10975,2027-09-02,Female,43,Peshawar,Sports,Gym Bag,4,31631,20,101219.2,63066.38,38152.82,4.9,EasyPaisa,Completed,September,9,36-45
+10976,2027-09-03,Male,24,Rawalpindi,Sports,Cricket Bat,2,34370,25,51555.0,31057.97,20497.03,4.3,Bank Transfer,Completed,September,9,18-25
+10977,2027-09-04,Male,59,Islamabad,Home,Bedsheet,4,38511,25,115533.0,78342.63,37190.37,3.0,JazzCash,Completed,September,9,56-65
+10978,2027-09-05,Female,64,Islamabad,Clothing,Shirt,4,39882,20,127622.4,70445.04,57177.36,2.8,EasyPaisa,Completed,September,9,56-65
+10979,2027-09-06,Male,55,Multan,Beauty,Skincare,5,49567,20,198268.0,110429.04,87838.96,4.2,Bank Transfer,Returned,September,9,46-55
+10980,2027-09-07,Male,22,Islamabad,Beauty,Perfume,4,41975,10,151110.0,105684.59,45425.41,2.9,Card,Completed,September,9,18-25
+10981,2027-09-08,Female,40,Multan,Beauty,Perfume,4,47181,20,150979.2,104254.36,46724.84,4.5,EasyPaisa,Completed,September,9,36-45
+10982,2027-09-09,Male,45,Lahore,Sports,Football,3,22107,15,56372.85,46143.27,10229.58,3.3,Bank Transfer,Completed,September,9,36-45
+10983,2027-09-10,Male,51,Multan,Sports,Football,5,25468,25,95505.0,57732.51,37772.49,3.3,EasyPaisa,Completed,September,9,46-55
+10984,2027-09-11,Female,32,Rawalpindi,Clothing,Jeans,1,33898,5,32203.1,19955.88,12247.22,2.5,JazzCash,Cancelled,September,9,26-35
+10985,2027-09-12,Male,49,Faisalabad,Beauty,Perfume,2,12408,25,18612.0,10807.17,7804.83,4.3,Cash,Completed,September,9,46-55
+10986,2027-09-13,Male,43,Multan,Beauty,Perfume,4,26923,0,107692.0,85909.85,21782.15,2.8,Card,Completed,September,9,36-45
+10987,2027-09-14,Female,65,Islamabad,Home,Bedsheet,2,44115,25,66172.5,50291.7,15880.8,4.4,JazzCash,Completed,September,9,56-65
+10988,2027-09-15,Female,48,Rawalpindi,Sports,Cricket Bat,1,9671,10,8703.9,6719.69,1984.21,3.7,JazzCash,Completed,September,9,46-55
+10989,2027-09-16,Female,36,Multan,Beauty,Skincare,2,13221,20,21153.6,16790.59,4363.01,4.5,Bank Transfer,Completed,September,9,36-45
+10990,2027-09-17,Female,26,Multan,Clothing,Jacket,1,49929,20,39943.2,27629.63,12313.57,4.0,EasyPaisa,Completed,September,9,26-35
+10991,2027-09-18,Male,46,Islamabad,Clothing,Jeans,3,17116,25,38511.0,25872.54,12638.46,2.7,Card,Completed,September,9,46-55
+10992,2027-09-19,Male,56,Peshawar,Beauty,Skincare,4,43012,5,163445.6,104475.36,58970.24,4.4,JazzCash,Returned,September,9,56-65
+10993,2027-09-20,Female,21,Peshawar,Sports,Running Shoes,1,38958,5,37010.1,26243.42,10766.68,2.7,Bank Transfer,Completed,September,9,18-25
+10994,2027-09-21,Male,20,Multan,Clothing,Jeans,2,46669,10,84004.2,56505.86,27498.34,3.7,Card,Completed,September,9,18-25
+10995,2027-09-22,Male,46,Peshawar,Home,Chair,4,8159,0,32636.0,21928.87,10707.13,2.9,EasyPaisa,Completed,September,9,46-55
+10996,2027-09-23,Female,28,Karachi,Clothing,Jeans,3,43869,25,98705.25,79257.41,19447.84,4.4,JazzCash,Completed,September,9,26-35
+10997,2027-09-24,Female,50,Islamabad,Electronics,Phone,4,12204,20,39052.8,31854.92,7197.88,4.8,JazzCash,Completed,September,9,46-55
+10998,2027-09-25,Male,55,Karachi,Electronics,Headphones,1,33293,25,24969.75,19103.13,5866.62,3.9,JazzCash,Completed,September,9,46-55
+10999,2027-09-26,Female,28,Rawalpindi,Sports,Cricket Bat,3,48652,10,131360.4,99088.39,32272.01,3.8,Card,Completed,September,9,26-35
+11000,2027-09-27,Female,44,Karachi,Beauty,Skincare,2,46973,15,79854.1,58593.0,21261.1,4.4,Card,Completed,September,9,36-45
